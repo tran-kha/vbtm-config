@@ -1,1 +1,7 @@
-{"api_video": "https://vgmvb.global.ssl.fastly.net/encrypted/API/items/single/"}
+{
+  "api_video": "https://vgmvb.global.ssl.fastly.net/encrypted/API/items/single/",
+  "peers": [
+    "/ip4/131.153.79.218/tcp/4001/p2p/12D3KooWR49QchZDCtfaYsfnznKNAhdcXJHg94PFqw4Efk4kioFi"
+  ],
+  "video_playlist": "720p.m3u8"
+}
