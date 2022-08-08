@@ -7,5 +7,6 @@
   "cloud_gateway": "https://vgmvb.global.ssl.fastly.net",
   "ipfs_gateway_local": "http://localhost:8080",
   "ipfs_gateway_server": "https://media-sgp.hjm.bid",
-  "json_gateway": "https://vgmvb.global.ssl.fastly.net/encrypted/API/items/single/"
+  "json_gateway": "https://vgmvb.global.ssl.fastly.net/encrypted/API/items/single/",
+  "url_download_app": "https://link.storjshare.io/jwyepah2ol2tub5sk2ovdp46t32a/vbtm%2FSetupVBTMBeta0508.zip?download=1"
 }
