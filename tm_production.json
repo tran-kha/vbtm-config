@@ -1,7 +1,8 @@
 {
   "api_video": "https://vgmvb.global.ssl.fastly.net/encrypted/API/items/single/",
   "peers": [
-    "/ip4/131.153.79.218/tcp/4001/p2p/12D3KooWR49QchZDCtfaYsfnznKNAhdcXJHg94PFqw4Efk4kioFi"
+    "/ip4/131.153.79.218/tcp/4001/p2p/12D3KooWR49QchZDCtfaYsfnznKNAhdcXJHg94PFqw4Efk4kioFi",
+    "/dns4/cdn-ipfs-vn.hjm.bid/tcp/4001/p2p/12D3KooWJVA45ydfCAqRTjJ4SHxdsbyGehvK5EgPwvEM5ifsLPeY"
   ],
   "video_playlist": "720p.m3u8",
   "cloud_gateway": "https://vgmvb.global.ssl.fastly.net",
