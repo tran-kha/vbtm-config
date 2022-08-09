@@ -10,5 +10,6 @@
   "ipfs_gateway_server": "https://media-sgp.hjm.bid",
   "json_gateway": "https://vgmvb.global.ssl.fastly.net/encrypted/API/items/single/",
   "url_download_app": "https://link.storjshare.io/jwbn6hpf2flzwfbgnaujcsfeb45a/vbtm%2FSetupVBTMBeta.zip?download=1",
-  "server_encrypted": "vbtm-server.hjm.bid"
+  "server_encrypted": "vbtm-server.hjm.bid",
+  "local_encrypted": "192.168.2.21:3333"
 }
