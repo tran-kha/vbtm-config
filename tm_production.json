@@ -11,5 +11,7 @@
   "json_gateway": "https://vgmvb.global.ssl.fastly.net/encrypted/API/items/single/",
   "url_download_app": "https://link.storjshare.io/jwbn6hpf2flzwfbgnaujcsfeb45a/vbtm%2FSetupVBTMBeta.zip?download=1",
   "server_encrypted": "vbtm-server.hjm.bid",
-  "local_encrypted": "192.168.2.36:3333"
+  "local_encrypted": "192.168.2.36:3333",
+  "server_auth": "https://vbtm.vercel.app/api/auth",
+  "server_graphql": "https://vbtm.vercel.app/api/graphql"
 }
