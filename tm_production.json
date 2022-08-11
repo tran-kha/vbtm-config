@@ -10,7 +10,7 @@
   "ipfs_gateway_server": "https://media-sgp.hjm.bid",
   "json_gateway": "https://vgmvb.global.ssl.fastly.net/encrypted/API/items/single/",
   "url_download_app": "https://link.storjshare.io/juzpn6c5u2pfaiy3blgkt4vvqg5a/vbtm%2FSetupVBTMBeta.zip?download=1",
-  "url_app_vbtm_macos": "https://link.storjshare.io/jwbn6hpf2flzwfbgnaujcsfeb45a/vbtm%2FSetupVBTMBeta.zip?download=1",
+  "url_app_vbtm_macos": "https://link.storjshare.io/juxade7tljfwqx2lkvvfia5xqvmq/vbtm%2FSetupVBTMBetaMac.zip?download=1",
   "server_encrypted": "vbtm-server.hjm.bid",
   "local_encrypted": "192.168.2.36:3333",
   "server_auth": "https://vbtm.vercel.app/api/auth",
