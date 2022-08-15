@@ -4,6 +4,17 @@
     "/ip4/131.153.79.218/tcp/4001/p2p/12D3KooWR49QchZDCtfaYsfnznKNAhdcXJHg94PFqw4Efk4kioFi",
     "/dns4/cdn-ipfs-vn.hjm.bid/tcp/4001/p2p/12D3KooWJVA45ydfCAqRTjJ4SHxdsbyGehvK5EgPwvEM5ifsLPeY"
   ],
+  "hash": [
+    "bafybeie65uuexn4xu2v5a5ibyvyyw6elvyp2levkjixv264itxn5uvw7mq",
+    "bafybeiek4sndgwn33ummfyfbeuultbrncgt3wu5f5vle34k7amtnc37jma",
+    "bafybeih23tlqaeg7j7suuolh6onammepqn7b4xc3lnyh6gntam3hfwqnle",
+    "bafybeig7sbngt5rdkxhrgbvcf6fr3af34yuz5jauufgpjekc7ygwo5eaki",
+    "bafybeihvxhelfoqyl26mlarjl5cw66lmyubto33oefax5rw75pzydymp6y",
+    "bafybeih3f27qysd4fefl2h37ae6senrjqvnk6noqo4j5xvrngf7nsxux3i",
+    "bafybeibivx3ccbbhv6oeqmoivbxjtcqzpw6dalyaabz3ibm6h3vm2xe67m",
+    "bafybeiecnt4z7ebzrbybjdqece4wwvpklm4uegsnmgitjukf24kh3rfi5i",
+    "bafybeibqg2sekim725s2yssdsx63egkobwbk6xhciwvmmy2lk4khwduw2e"
+  ],
   "video_playlist": "720p.m3u8",
   "cloud_gateway": "https://vgmvb.global.ssl.fastly.net",
   "ipfs_gateway_local": "http://localhost:8080",
