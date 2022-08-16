@@ -25,5 +25,6 @@
   "server_encrypted": "vbtm-server.hjm.bid",
   "local_encrypted": "192.168.2.36:3333",
   "server_auth": "https://vbtm.vercel.app/api/auth",
-  "server_graphql": "https://vbtm.vercel.app/api/graphql"
+  "server_graphql": "https://vbtm.vercel.app/api/graphql",
+  "status_player": "ipfs"
 }
