@@ -24,7 +24,7 @@
   "url_app_vbtm_macos": "https://link.storjshare.io/juxade7tljfwqx2lkvvfia5xqvmq/vbtm%2FSetupVBTMBetaMac.zip?download=1",
   "server_encrypted": "https://vbtm-server-staging.hjm.bid/",
   "local_encrypted": "192.168.2.36:3333",
-  "server_auth": "https://lms.namlinh.family/api/auth",
+  "server_auth": "https://tm-vbtm-git-feat-staging-tuantiensiu.vercel.app/",
   "server_graphql": "https://lms.namlinh.family/api/graphql",
   "status_player": "ipfs"
 }
