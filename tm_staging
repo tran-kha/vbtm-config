@@ -1,0 +1,30 @@
+{
+  "api_video": "https://vgmvb.global.ssl.fastly.net/encrypted/API/items/single/",
+  "peers": [
+    "/ip4/147.75.70.221/udp/4001/quic/p2p/Qme8g49gm3q4Acp7xWBKg3nAa9fxZ1YmyDJdyGgoG6LsXh/p2p-circuit/p2p/12D3KooWR49QchZDCtfaYsfnznKNAhdcXJHg94PFqw4Efk4kioFi",
+    "/ip4/147.75.70.221/udp/4001/quic/p2p/Qme8g49gm3q4Acp7xWBKg3nAa9fxZ1YmyDJdyGgoG6LsXh/p2p-circuit/p2p/12D3KooWJVA45ydfCAqRTjJ4SHxdsbyGehvK5EgPwvEM5ifsLPeY"
+  ],
+  "hash": [
+    "bafybeie65uuexn4xu2v5a5ibyvyyw6elvyp2levkjixv264itxn5uvw7mq",
+    "bafybeiek4sndgwn33ummfyfbeuultbrncgt3wu5f5vle34k7amtnc37jma",
+    "bafybeih23tlqaeg7j7suuolh6onammepqn7b4xc3lnyh6gntam3hfwqnle",
+    "bafybeig7sbngt5rdkxhrgbvcf6fr3af34yuz5jauufgpjekc7ygwo5eaki",
+    "bafybeihvxhelfoqyl26mlarjl5cw66lmyubto33oefax5rw75pzydymp6y",
+    "bafybeih3f27qysd4fefl2h37ae6senrjqvnk6noqo4j5xvrngf7nsxux3i",
+    "bafybeibivx3ccbbhv6oeqmoivbxjtcqzpw6dalyaabz3ibm6h3vm2xe67m",
+    "bafybeiecnt4z7ebzrbybjdqece4wwvpklm4uegsnmgitjukf24kh3rfi5i",
+    "bafybeibqg2sekim725s2yssdsx63egkobwbk6xhciwvmmy2lk4khwduw2e"
+  ],
+  "video_playlist": "720p.m3u8",
+  "cloud_gateway": "https://vgmvb.global.ssl.fastly.net",
+  "ipfs_gateway_local": "http://localhost:8080",
+  "ipfs_gateway_server": "https://media-sgp.hjm.bid",
+  "json_gateway": "https://vgmvb.global.ssl.fastly.net/encrypted/API/items/single/",
+  "url_download_app": "https://link.storjshare.io/jvloe4fdoiahhcthtd4x7mjlzpza/vbtm%2FVBTMBeta.zip?download=1",
+  "url_app_vbtm_macos": "https://link.storjshare.io/juxade7tljfwqx2lkvvfia5xqvmq/vbtm%2FSetupVBTMBetaMac.zip?download=1",
+  "server_encrypted": "vbtm-server.hjm.bid",
+  "local_encrypted": "192.168.2.36:3333",
+  "server_auth": "https://vbtm.vercel.app/api/auth",
+  "server_graphql": "https://vbtm.vercel.app/api/graphql",
+  "status_player": "ipfs"
+}
