@@ -25,6 +25,6 @@
   "server_encrypted": "https://vbtm-server-staging.hjm.bid/",
   "local_encrypted": "192.168.2.36:3333",
   "server_auth": "https://tm-staging.vbtm.academy",
-  "server_graphql": "https://lms.namlinh.family/api/graphql",
+  "server_graphql": "https://tm-staging.vbtm.academy/api/graphql",
   "status_player": "ipfs"
 }
