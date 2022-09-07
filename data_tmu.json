@@ -224,17 +224,196 @@
           "id": 1,
           "name": "01-Giới Thiệu Về Nghiên Cứu Kinh Thánh",
           "item": [
-
+              "Học Phần 1: Tầm Quan Trọng Của Nghiên Cứu Kinh Thánh",
+              "Học Phần 2: Các Chủ Đề Trong Nghiên Cứu Kinh Thánh",
+              "Học Phần 3: Cách Hoạt Động Của Chương Trình Nghiên Cứu Kinh Thánh",
+              "Học Phần 4: Các Kỹ Thuật Nghiên Cứu Trong Nghiên Cứu Kinh Thánh",
+              "Học Phần 5: Niềm Tin Chính – Sự Thần Cảm Và Bản Dịch",
+              "Học Phần 6: Niềm Tin Chính – Tính Không Sai Lạc",
+              "Học Phần 7: Xác Tín Trọng Điểm – Kinh Điển",
+              "Học Phần 8: Xác Tín Trọng Điểm – Phê Bình Văn Bản Và Bảo Tồn"
             ]
         },
          {
           "id": 2,
-          "name": "03-Thần Học Về Đức Chúa Trời",
+          "name": "02-Giải Kinh Học",
           "item": [
-            "Học Phần 1: Giới Thiệu Về Nghiên Cứu Kinh Thánh, Phần 1",
-            "Học Phần 2: Giới Thiệu Về Nghiên Cứu Kinh Thánh, Phần 2",
-            "Học Phần 3: Kiến Thức Thông Tin-Chiến Lược Nghiên Cứu, Phần 1",
-            "Học Phần 4: Kiến Thức Thông Tin-Chiến Lược Nghiên Cứu, Phần 2"
+              "Học Phần 1: Quan Điểm Lý Thuyết Về Giải Kinh Học",
+              "Học Phần 2: Hướng Dẫn Thực Hành Về Giải Kinh Học",
+              "Học Phần 3: Các Công Cụ Của Giải Kinh Học",
+              "Học Phần 4: Giải Nghĩa Cựu Ước",
+              "Học Phần 5: Hiểu \"Ý Nghĩa\" Của Ý Nghĩa Và Ngụ Ý",
+              "Học Phần 6: Chúa Giê-xu Là Sự Hoàn Thành Giải Nghĩa",
+              "Học Phần 7: Cựu Và Tân Ước",
+              "Học Phần 8: Bài Luận Giải"
+            ]
+        },
+        {
+          "id": 3,
+          "name": "03-Sự Sáng Tạo - Giao Ước",
+          "item": [
+              "Học Phần 1: Sáng Thế Ký 1-2",
+              "Học Phần 2: Sáng Thế Ký 1-2 (Pt 2)",
+              "Học Phần 3: Sáng Thế Ký 3-11",
+              "Học Phần 4: Sáng Thế Ký 12-50",
+              "Học Phần 5: Xuất Hành",
+              "Học Phần 6: Lê-vi Ký",
+              "Học Phần 7: Dân Số Ký",
+              "Học Phần 8: Phục Truyền Luật Lệ Ký"
+            ]
+        },
+        {
+          "id": 4,
+          "name": "04-Lịch Sử Dân Giao Ước",
+          "item": [
+              "Học Phần 1: Giới Thiệu, Lịch Sử Và Bối Cảnh Ane (Lịch Sử Và Văn Học)",
+              "Học Phần 2: Địa Lý Của Y-sơ-ra-ên, Niên Đại Học Và Thời Kỳ Các Tộc Trưởng (Qua Giô-sép)",
+              "Học Phần 3: Xuất Hành Khỏi Ai Cập, Đi Lang Thang Trong Đồng Vắng, Chinh Phục Và Chiếm Xứ Ca-na-an",
+              "Học Phần 4: Thời Kỳ Các Quan Xét Và Triều Đại Của Vua Sau-lơ",
+              "Học Phần 5: Cuộc Đời Và Triều Đại Của Đa-vít Và Sa-lô-môn Và Sự Khởi Đầu Của Nền Quân Chủ Chia Đôi",
+              "Học Phần 6: Nền Quân Chủ Chia Đôi Thông Qua Sự Sụp Đổ Của Vương Quốc Phía Bắc",
+              "Học Phần 7: Ê-xê-chia Thông Qua Sự Sụp Đổ Của Giê-ru-sa-lem",
+              "Học Phần 8: Thời Kỳ Lưu Đày Và Hậu Lưu Đày, Tổng Quan Về Khảo Cổ Học Và Kinh Thánh"
+            ]
+        },
+        {
+          "id": 5,
+          "name": "05-Lời Tiên Tri Và Các Tiên Tri Trong Ngữ Cảnh",
+          "item": [
+              "Học Phần 1: Giới Thiệu Về Lời Tiên Tri Và Ê-sai",
+              "Học Phần 2: Giê-rê-mi",
+              "Học Phần 3: Ê-xê-chi-ên",
+              "Học Phần 4: Đa-ni-ên",
+              "Học Phần 5: Mười Hai (Ô-sê đến Áp-đia)",
+              "Học Phần 6: Mười Hai (Giô-na đến Ha-ba-cúc)",
+              "Học Phần 7: Mười Hai (Sô-phô-ni đến Xa-cha-ri)",
+              "Học Phần 8: Mười Hai (Ma-la-chi và xa hơn)"
+            ]
+        },
+        {
+          "id": 6,
+          "name": "06-Thờ Phượng Và Sự Khôn Ngoan",
+          "item": [
+              "Học Phần 1: Thi Thiên 1-41",
+              "Học Phần 2: Thi Thiên 42-72",
+              "Học Phần 3: Thi Thiên 73-106",
+              "Học Phần 4: Thi Thiên 107-150",
+              "Học Phần 5: Sách Gióp",
+              "Học Phần 6: Sách Châm Ngôn",
+              "Học Phần 7: Sách Truyền Đạo",
+              "Học Phần 8: Sách Nhã Ca"
+            ]
+        },
+        {
+          "id": 2,
+          "name": "02-Giải Kinh Học",
+          "item": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+        },
+        {
+          "id": 2,
+          "name": "02-Giải Kinh Học",
+          "item": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+        },
+        {
+          "id": 2,
+          "name": "02-Giải Kinh Học",
+          "item": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+        },
+        {
+          "id": 2,
+          "name": "02-Giải Kinh Học",
+          "item": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+        },
+        {
+          "id": 2,
+          "name": "02-Giải Kinh Học",
+          "item": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+        },
+        {
+          "id": 2,
+          "name": "02-Giải Kinh Học",
+          "item": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+        },
+        {
+          "id": 2,
+          "name": "02-Giải Kinh Học",
+          "item": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+        },
+        {
+          "id": 2,
+          "name": "02-Giải Kinh Học",
+          "item": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
             ]
         }
       ]
