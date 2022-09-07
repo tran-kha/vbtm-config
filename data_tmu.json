@@ -1,0 +1,48 @@
+{
+  "courses": {
+    "bachelor": [
+        {
+          "id": 1,
+          "name": "01-NỀN TẢNG NGHIÊN CỨU KINH THÁNH"
+          "item": [
+            "Học Phần 1: Giới Thiệu Về Nghiên Cứu Kinh Thánh, Phần 1",
+            "Học Phần 2: Giới Thiệu Về Nghiên Cứu Kinh Thánh, Phần 2",
+            "Học Phần 3: Kiến Thức Thông Tin-Chiến Lược Nghiên Cứu, Phần 1",
+            "Học Phần 4: Kiến Thức Thông Tin-Chiến Lược Nghiên Cứu, Phần 2"
+            ]
+        },
+         {
+          "id": 2,
+          "name": "02-Giải Nghĩa Kinh Thánh"
+          "item": [
+            "Học Phần 1: Giới Thiệu Về Nghiên Cứu Kinh Thánh, Phần 1",
+            "Học Phần 2: Giới Thiệu Về Nghiên Cứu Kinh Thánh, Phần 2",
+            "Học Phần 3: Kiến Thức Thông Tin-Chiến Lược Nghiên Cứu, Phần 1",
+            "Học Phần 4: Kiến Thức Thông Tin-Chiến Lược Nghiên Cứu, Phần 2"
+            ]
+        }
+      ],
+    "master": [
+         {
+          "id": 1,
+          "name": "01-NỀN TẢNG NGHIÊN CỨU KINH THÁNH"
+          "item": [
+            "Học Phần 1: Giới Thiệu Về Nghiên Cứu Kinh Thánh, Phần 1",
+            "Học Phần 2: Giới Thiệu Về Nghiên Cứu Kinh Thánh, Phần 2",
+            "Học Phần 3: Kiến Thức Thông Tin-Chiến Lược Nghiên Cứu, Phần 1",
+            "Học Phần 4: Kiến Thức Thông Tin-Chiến Lược Nghiên Cứu, Phần 2"
+            ]
+        },
+         {
+          "id": 2,
+          "name": "03-Thần Học Về Đức Chúa Trời"
+          "item": [
+            "Học Phần 1: Giới Thiệu Về Nghiên Cứu Kinh Thánh, Phần 1",
+            "Học Phần 2: Giới Thiệu Về Nghiên Cứu Kinh Thánh, Phần 2",
+            "Học Phần 3: Kiến Thức Thông Tin-Chiến Lược Nghiên Cứu, Phần 1",
+            "Học Phần 4: Kiến Thức Thông Tin-Chiến Lược Nghiên Cứu, Phần 2"
+            ]
+        }
+      ]
+  }
+}
