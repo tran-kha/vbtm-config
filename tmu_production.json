@@ -26,5 +26,5 @@
   "local_encrypted": "192.168.2.36:3333",
   "server_auth": "https://tmai.vbtm.academy/api/auth",
   "server_graphql": "https://tmai.vbtm.academy/api/graphql",
-  "status_player": "ipfs"
+  "status_player": "online"
 }
