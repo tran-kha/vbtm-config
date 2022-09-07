@@ -305,101 +305,101 @@
             ]
         },
         {
-          "id": 2,
-          "name": "02-Giải Kinh Học",
+          "id": 7,
+          "name": "07-Bối Cảnh Lịch Sử Tân Ước",
           "item": [
-              "",
-              "",
-              "",
-              "",
-              "",
-              "",
-              "",
-              ""
+               "Học Phần 1: Lịch Sử, Xã Hội Và Văn Hóa Hy-La",
+                "Học Phần 2: Tôn Giáo Và Triết Học Hy-La",
+                "Học Phần 3: Lịch Sử Do Thái",
+                "Học Phần 4: Nguồn Gốc Do Thái",
+                "Học Phần 5: Đảng Và Giáo Phái Do Thái",
+                "Học Phần 6: Niềm Tin Và Thực Hành Của Người Do Thái",
+                "Học Phần 7: Các Tổ Chức Và Thể Chế Của Người Do Thái",
+                "Học Phần 8: Cơ Đốc Giáo Trong Thế Giới Cổ Đại"
             ]
         },
         {
-          "id": 2,
-          "name": "02-Giải Kinh Học",
+          "id": 8,
+          "name": "08-Đời Sống, Chức Vụ và Thần Học của Chúa Cứu Thế",
           "item": [
-              "",
-              "",
-              "",
-              "",
-              "",
-              "",
-              "",
-              ""
+              "Học Phần 1: Tổng Quan Về Cuộc Đời Chúa Cứu Thế",
+              "Học Phần 2: Khởi Đầu Cuộc Đời Chúa Cứu Thế",
+              "Học Phần 3: Khởi Đầu Chức Vụ Của Chúa Cứu Thế / Thời Kỳ Ga-li-lê Vĩ Đại",
+              "Học Phần 4: Thời Kỳ Ga-li-lê (tiếp theo)",
+              "Học Phần 5: Thời Kỳ Rút Lui - Thịnh Vượng",
+              "Học Phần 6: Thời Kỳ Rút Lui / Suy Thoái (tiếp theo); Tuần Lễ Thương Khó",
+              "Học Phần 7: Tuần Lễ Thương Khó (tiếp theo)",
+              "Học Phần 8: Tuần Lễ Thương Khó (tiếp theo) / Hậu Phục Sinh"
             ]
         },
         {
-          "id": 2,
-          "name": "02-Giải Kinh Học",
+          "id": 9,
+          "name": "09-Hội Thánh Đầu Tiên Và Sách Công Vụ",
           "item": [
-              "",
-              "",
-              "",
-              "",
-              "",
-              "",
-              "",
-              ""
+             "Học Phần 1: Thế Giới Thời Tân Ước",
+              "Học Phần 2: Sự Khai Sinh Hội Thánh",
+              "Học Phần 3: Sa-ma-ri và xa hơn",
+              "Học Phần 4: Những Năm Đầu Của Phao-lô",
+              "Học Phần 5: Phúc Âm Đi Về Phía Tây",
+              "Học Phần 6: Các Sứ Đồ Sau Công Vụ",
+              "Học Phần 7: Hội Thánh Giê-ru-sa-lem",
+              "Học Phần 8: Hội Thánh Dân Ngoại"
             ]
         },
         {
-          "id": 2,
-          "name": "02-Giải Kinh Học",
+          "id": 10,
+          "name": "10-Thư Tín Và Thần Học Của Phao-lô",
           "item": [
-              "",
-              "",
-              "",
-              "",
-              "",
-              "",
-              "",
-              ""
+              "Học Phần 1: Giới Thiệu Về Phao-lô",
+              "Học Phần 2: Rô-ma",
+              "Học Phần 3: Rô-ma Và Thư Tín Cô-rinh-tô",
+              "Học Phần 4: Thư Tín Cô-rinh-tô",
+              "Học Phần 5: Ga-la-ti - 2Tê-sa-lô-ni-ca",
+              "Học Phần 6: Ga-la-ti - 2Tê-sa-lô-ni-ca (tiếp theo)",
+              "Học Phần 7: Các Thư Tín Mục Vụ",
+              "Học Phần 8: Các Thư Tín Mục Vụ - Kết Luận"
             ]
         },
         {
-          "id": 2,
-          "name": "02-Giải Kinh Học",
+          "id": 11,
+          "name": "11-Thư Hê-Bơ-Rơ Và Các Thư Tín Tổng Quát",
           "item": [
-              "",
-              "",
-              "",
-              "",
-              "",
-              "",
-              "",
-              ""
+             "Học Phần 1: Hê-bơ-rơ, Phần I H",
+            "Học Phần 2: Hê-bơ-rơ, Phần II",
+            "Học Phần 3: Gia-cơ, Phần I",
+            "Học Phần 4: Gia-cơ, Phần II",
+            "Học Phần 5: 1Phi-e-rơ",
+            "Học Phần 6: 2Phi-e-rơ",
+            "Học Phần 7: 1Giăng",
+            "ọc Phần 8: 2Giăng đến Thư Giu-Đe"
             ]
         },
         {
-          "id": 2,
-          "name": "02-Giải Kinh Học",
+          "id": 12,
+          "name": "12-Chủ Đề Trọng Tâm Trong Thần Học Thánh Kinh",
           "item": [
-              "",
-              "",
-              "",
-              "",
-              "",
-              "",
-              "",
-              ""
+              "Học Phần 1: Thực Tế Của Thần Học Và Phương Pháp Thánh Kinh",
+              "Học Phần 2: Thần Học Thánh Kinh Với Thần Học Hệ Thống",
+              "Học Phần 3: Sáng Thế Ký Với Các Sách Lịch Sử",
+              "Học Phần 4: Sự Khôn Ngoan Và Thần Học Về Khải Tượng",
+              "Học Phần 5: Các Sách Phúc Âm - Công Vụ",
+              "Học Phần 6: Các Thư Tín Của Phao-Lô",
+              "Học Phần 7: Các Thư Tín Tổng Quát",
+              "Học Phần 8: Vương Quốc"
             ]
         },
         {
-          "id": 2,
-          "name": "02-Giải Kinh Học",
+          "id": 13,
+          "name": "13-Sứ Mạng Đức Chúa Trời Giao Cho Hội Thánh Địa Phương",
           "item": [
-              "",
-              "",
-              "",
-              "",
-              "",
-              "",
-              "",
-              ""
+              "Học Phần 1: Tóm Tắt Những Gì Hội Thánh Địa Phương Làm Trong Các Sứ Mạng",
+              "Học Phần 2: Những Gì Kinh Thánh Dạy Về Các Sứ Mạng Cả Trên Toàn Cầu Và Địa Phương",
+              "Học Phần 3: Định Nghĩa Về Hội Thánh Sai Phái",
+              "Học Phần 4: Hồ Sơ Đánh Giá Sứ Mạng Và Trách Nhiệm Truyền Giáo",
+              "Học Phần 5: Triết Lý Nhiệm Vụ Ngắn Hạn Và Tuyển Dụng Đội Ngũ Ngắn Hạn",
+              "Học Phần 6: Triết Lý Ngắn Hạn",
+              "Học Phần 7: Chính Sách Và Thủ Tục Ngắn Hạn",
+              "Học Phần 8: Hoàn Thành Sổ Tay Chính Sách Ngắn Hạn Và Nhiệm Vụ"
             ]
         },
         {
