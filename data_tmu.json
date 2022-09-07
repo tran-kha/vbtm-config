@@ -403,17 +403,44 @@
             ]
         },
         {
-          "id": 2,
-          "name": "02-Giải Kinh Học",
+          "id": 14,
+          "name": "14-Trách Nhiệm Đức Chúa Trời Giao Trên Thế Giới"",
           "item": [
-              "",
-              "",
-              "",
-              "",
-              "",
-              "",
-              "",
-              ""
+              "Học Phần 1: Thế Giới Quan",
+              "Học Phần 2: Truyền Giáo",
+              "Học Phần 3: Phật Giáo",
+              "Học Phần 4: Hồi Giáo",
+              "Học Phần 5: Công Giáo",
+              "Học Phần 6: Chủ Nghĩa Thế Tục / Chủ Nghĩa Duy Vật",
+              "Học Phần 7: Ấn Độ Giáo",
+              "Học Phần 8: Tổng Kết"
+            ]
+        },
+       {
+          "id": 15,
+          "name": "15-Vùng Đất Của Kinh Thánh",
+          "item": [
+              "Học Phần 1: Thành Cổ Giê-ru-sa-lem",
+              "Học Phần 2: Thành Đa-vít",
+              "Học Phần 3: Thành Cổ, Núi Si-ôn, Mộ Vườn",
+              "Học Phần 4: Bên-gia-min Và Giê-ri-cô",
+              "Học Phần 5: Núi Đền Thờ, Núi Ô-li-ve, Mô-áp, Hếp-rôn, Bết-lê-hem",
+              "Học Phần 6: Shephelah, Negev, Masada, Qumran",
+              "Học Phần 7: Bờ Biển, Mê-ghi-đô, Na-xa-rét, Hạ Ga-li-lê, Thung Lũng Gít-rê-ên",
+              "Học Phần 8: Ga-li-lê, Đồi Gô-gô-tha, Thung Lũng Giô-đanh, Sa-ma-ri"
+            ]
+        },\ {
+          "id": 16,
+          "name": "16-Tiếng Hy Lạp Trung Cấp",
+          "item": [
+              "Học Phần 1: Thành Cổ Giê-ru-sa-lem",
+              "Học Phần 2: Thành Đa-vít",
+              "Học Phần 3: Thành Cổ, Núi Si-ôn, Mộ Vườn",
+              "Học Phần 4: Bên-gia-min Và Giê-ri-cô",
+              "Học Phần 5: Núi Đền Thờ, Núi Ô-li-ve, Mô-áp, Hếp-rôn, Bết-lê-hem",
+              "Học Phần 6: Shephelah, Negev, Masada, Qumran",
+              "Học Phần 7: Bờ Biển, Mê-ghi-đô, Na-xa-rét, Hạ Ga-li-lê, Thung Lũng Gít-rê-ên",
+              "Học Phần 8: Ga-li-lê, Đồi Gô-gô-tha, Thung Lũng Giô-đanh, Sa-ma-ri"
             ]
         }
       ]
