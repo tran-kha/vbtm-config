@@ -3,29 +3,121 @@
     "bachelor": [
         {
           "id": 1,
-          "name": "01-NỀN TẢNG NGHIÊN CỨU KINH THÁNH"
+          "name": "01-Nền Tảng Nghiên Cứu Kinh Thánh",
           "item": [
             "Học Phần 1: Giới Thiệu Về Nghiên Cứu Kinh Thánh, Phần 1",
             "Học Phần 2: Giới Thiệu Về Nghiên Cứu Kinh Thánh, Phần 2",
             "Học Phần 3: Kiến Thức Thông Tin-Chiến Lược Nghiên Cứu, Phần 1",
-            "Học Phần 4: Kiến Thức Thông Tin-Chiến Lược Nghiên Cứu, Phần 2"
+            "Học Phần 4: Kiến Thức Thông Tin-Chiến Lược Nghiên Cứu, Phần 2",
+            "Học Phần 5: Kiến Thức Thông Tin-Chiến Lược Nghiên Cứu, Phần 3",
+            "Học Phần 6: Viết Học Thuật-Viết Cơ Học",
+            "Học Phần 7: Viết Học Thuật-Cấu Trúc Bài Viết",
+            "Học Phần 8: Đánh Giá Viết Học Thuật"
             ]
         },
-         {
+        {
           "id": 2,
-          "name": "02-Giải Nghĩa Kinh Thánh"
+          "name": "02-Giải Nghĩa Kinh Thánh",
           "item": [
-            "Học Phần 1: Giới Thiệu Về Nghiên Cứu Kinh Thánh, Phần 1",
-            "Học Phần 2: Giới Thiệu Về Nghiên Cứu Kinh Thánh, Phần 2",
-            "Học Phần 3: Kiến Thức Thông Tin-Chiến Lược Nghiên Cứu, Phần 1",
-            "Học Phần 4: Kiến Thức Thông Tin-Chiến Lược Nghiên Cứu, Phần 2"
+              "Học Phần 1: Giới Thiệu Về Việc Giải Nghĩa Kinh Thánh ",
+              "Học Phần 2: Bối Cảnh Lịch Sử",
+              "Học Phần 3: Bối Cảnh Văn Học-Tổng Quan",
+              "Học Phần 4: Bối Cảnh Văn Học-Đặc Thù",
+              "Học Phần 5: Vai Trò Của Cú Pháp",
+              "Học Phần 6: Nghiên Cứu Từ",
+              "Học Phần 7: Giải Thích",
+              "Học Phần 8: Áp Dụng"
+            ]
+        },
+        {
+          "id": 3,
+          "name": "03-Thần Học Về Đức Chúa Trời",
+          "item": [
+              "Học Phần 1: Nền Tảng",
+              "Học Phần 2: Nền Tảng, (tiếp tục)",
+              "Học Phần 3: Lịch Sử",
+              "Học Phần 4: Lịch Sử - Kiến Thức Về Đức Chúa Trời",
+              "Học Phần 5: Những Thuộc Tính Phi Đạo Đức",
+              "Học Phần 6: Những Thuộc Tính Phi Đạo Đức, (tiếp tục)",
+              "Học Phần 7: Vấn Đề Điều Ác ",
+              "Học Phần 8: Vấn Đề Điều Ác, (tiếp tục)"
+            ]
+        },
+        {
+          "id": 4,
+          "name": "04-Sáng Thế ",
+          "item": [
+              "Học Phần 1: Bối Cảnh Của Sáng Thế Và Sự Sáng Tạo",
+              "Học Phần 2: Sự Sa Ngã Của Nhân Loại Và Những Hậu Quả Của Nó",
+              "Học Phần 3: Hai Gia Đình Và Cơn Nước Lưng",
+              "Học Phần 4: Nô-ê Và Các Con Trai Ông",
+              "Học Phần 5: Áp-ram: Sự Kêu Gọi Và Những Thử Thách Của Ông",
+              "Học Phần 6: Áp-ra-ham: Sự Trung Tín Và Trọn Vẹn Của Ông",
+              "Học Phần 7: Những Thăng Trầm Của Gia-Cốp",
+              "Học Phần 8: Giô-sép Và Các Anh Em"
+            ]
+        },
+        {
+          "id": 4,
+          "name": "05-Lịch Sử Y-sơ-ra-ên Cổ Đại ",
+          "item": [
+              "Học Phần 1: Giới Thiệu; Địa Lý Y-sơ-ra-ên; Giai Đoạn Các Tộc Trưởng",
+              "Học Phần 2: Xuất Hành Khỏi Ai Cập; Đi Lang Thang Trong Đồng Vắng; Chinh Phục Và Chiếm Xứ Ca-na-an",
+              "Học Phần 3: Giai Đoạn Các Quan Xét Và Triều Đại Của Vua Sau-lơ",
+              "Học Phần 4: Cuộc Đời, Triều Đại Của Đa-vít",
+              "Học Phần 5: Triều Đại Của Sa-lô-môn - Sự Khởi Đầu Của Nền Quân Chủ Bị Chia Cắt",
+              "Học Phần 6: Nền Quân Chủ Bị Chia Cắt Thông Qua Sự Sụp Đổ Của Vương Quốc Phía Bắc",
+              "Học Phần 7: Ê-xê-chia Thông Qua Sự Sụp Đổ Của Giê-ru-sa-lem",
+              "Học Phần 8: Thời Kỳ Lưu Đày Và Hậu Lưu Đày"
+            ]
+        },
+        {
+          "id": 4,
+          "name": "04-Sáng Thế ",
+          "item": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+        },
+        {
+          "id": 4,
+          "name": "04-Sáng Thế ",
+          "item": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+        },
+        {
+          "id": 4,
+          "name": "04-Sáng Thế ",
+          "item": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
             ]
         }
       ],
     "master": [
          {
           "id": 1,
-          "name": "01-NỀN TẢNG NGHIÊN CỨU KINH THÁNH"
+          "name": "01-NỀN TẢNG NGHIÊN CỨU KINH THÁNH",
           "item": [
             "Học Phần 1: Giới Thiệu Về Nghiên Cứu Kinh Thánh, Phần 1",
             "Học Phần 2: Giới Thiệu Về Nghiên Cứu Kinh Thánh, Phần 2",
@@ -35,7 +127,7 @@
         },
          {
           "id": 2,
-          "name": "03-Thần Học Về Đức Chúa Trời"
+          "name": "03-Thần Học Về Đức Chúa Trời",
           "item": [
             "Học Phần 1: Giới Thiệu Về Nghiên Cứu Kinh Thánh, Phần 1",
             "Học Phần 2: Giới Thiệu Về Nghiên Cứu Kinh Thánh, Phần 2",
