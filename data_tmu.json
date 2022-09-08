@@ -1,513 +1,500 @@
 {
   "courses": {
     "bachelor": [
-        {
-          "id": 1,
-          "name": "01-Nền Tảng Nghiên Cứu Kinh Thánh",
-          "item": [
-            "Học Phần 1: Giới Thiệu Về Nghiên Cứu Kinh Thánh, Phần 1",
-            "Học Phần 2: Giới Thiệu Về Nghiên Cứu Kinh Thánh, Phần 2",
-            "Học Phần 3: Kiến Thức Thông Tin-Chiến Lược Nghiên Cứu, Phần 1",
-            "Học Phần 4: Kiến Thức Thông Tin-Chiến Lược Nghiên Cứu, Phần 2",
-            "Học Phần 5: Kiến Thức Thông Tin-Chiến Lược Nghiên Cứu, Phần 3",
-            "Học Phần 6: Viết Học Thuật-Viết Cơ Học",
-            "Học Phần 7: Viết Học Thuật-Cấu Trúc Bài Viết",
-            "Học Phần 8: Đánh Giá Viết Học Thuật"
-            ]
-        },
-        {
-          "id": 2,
-          "name": "02-Giải Nghĩa Kinh Thánh",
-          "item": [
-              "Học Phần 1: Giới Thiệu Về Việc Giải Nghĩa Kinh Thánh ",
-              "Học Phần 2: Bối Cảnh Lịch Sử",
-              "Học Phần 3: Bối Cảnh Văn Học-Tổng Quan",
-              "Học Phần 4: Bối Cảnh Văn Học-Đặc Thù",
-              "Học Phần 5: Vai Trò Của Cú Pháp",
-              "Học Phần 6: Nghiên Cứu Từ",
-              "Học Phần 7: Giải Thích",
-              "Học Phần 8: Áp Dụng"
-            ]
-        },
-        {
-          "id": 3,
-          "name": "03-Thần Học Về Đức Chúa Trời",
-          "item": [
-              "Học Phần 1: Nền Tảng",
-              "Học Phần 2: Nền Tảng, (tiếp tục)",
-              "Học Phần 3: Lịch Sử",
-              "Học Phần 4: Lịch Sử - Kiến Thức Về Đức Chúa Trời",
-              "Học Phần 5: Những Thuộc Tính Phi Đạo Đức",
-              "Học Phần 6: Những Thuộc Tính Phi Đạo Đức, (tiếp tục)",
-              "Học Phần 7: Vấn Đề Điều Ác ",
-              "Học Phần 8: Vấn Đề Điều Ác, (tiếp tục)"
-            ]
-        },
-        {
-          "id": 4,
-          "name": "04-Sáng Thế ",
-          "item": [
-              "Học Phần 1: Bối Cảnh Của Sáng Thế Và Sự Sáng Tạo",
-              "Học Phần 2: Sự Sa Ngã Của Nhân Loại Và Những Hậu Quả Của Nó",
-              "Học Phần 3: Hai Gia Đình Và Cơn Nước Lưng",
-              "Học Phần 4: Nô-ê Và Các Con Trai Ông",
-              "Học Phần 5: Áp-ram: Sự Kêu Gọi Và Những Thử Thách Của Ông",
-              "Học Phần 6: Áp-ra-ham: Sự Trung Tín Và Trọn Vẹn Của Ông",
-              "Học Phần 7: Những Thăng Trầm Của Gia-Cốp",
-              "Học Phần 8: Giô-sép Và Các Anh Em"
-            ]
-        },
-        {
-          "id": 5,
-          "name": "05-Lịch Sử Y-sơ-ra-ên Cổ Đại ",
-          "item": [
-              "Học Phần 1: Giới Thiệu; Địa Lý Y-sơ-ra-ên; Giai Đoạn Các Tộc Trưởng",
-              "Học Phần 2: Xuất Hành Khỏi Ai Cập; Đi Lang Thang Trong Đồng Vắng; Chinh Phục Và Chiếm Xứ Ca-na-an",
-              "Học Phần 3: Giai Đoạn Các Quan Xét Và Triều Đại Của Vua Sau-lơ",
-              "Học Phần 4: Cuộc Đời, Triều Đại Của Đa-vít",
-              "Học Phần 5: Triều Đại Của Sa-lô-môn - Sự Khởi Đầu Của Nền Quân Chủ Bị Chia Cắt",
-              "Học Phần 6: Nền Quân Chủ Bị Chia Cắt Thông Qua Sự Sụp Đổ Của Vương Quốc Phía Bắc",
-              "Học Phần 7: Ê-xê-chia Thông Qua Sự Sụp Đổ Của Giê-ru-sa-lem",
-              "Học Phần 8: Thời Kỳ Lưu Đày Và Hậu Lưu Đày"
-            ]
-        },
-        {
-          "id": 6,
-          "name": "06-Ê-sai",
-          "item": [
-              "Học Phần 1: Giới Thiệu Văn Chương Tiên Tri Và Sách Ê-sai",
-              "Học Phần 2: Ê-sai 1-6",
-              "Học Phần 3: Ê-sai 7-12",
-              "Học Phần 4: Ê-sai 13-27",
-              "Học Phần 5: Ê-sai 28-39",
-              "Học Phần 6: Ê-sai 40-48",
-              "Học Phần 7: Ê-sai 49-55",
-              "Học Phần 8: Ê-sai 56-66"
-            ]
-        },
-        {
-          "id": 7,
-          "name": "07-Cuộc Đời Của Chúa Cứu Thế ",
-          "item": [
-             "Học Phần 1: Giới Thiệu Về Chúa Cứu Thế Giê-xu Và Các Sách Phúc Âm",
-            "Học Phần 2: Những Năm Đầu Của Chúa Cứu Thế Giê-xu",
-            "Học Phần 3: Chức Vụ Của Giăng Báp-tít Với Chúa Cứu Thế",
-            "Học Phần 4: Chức Vụ Đang Phát Triển Của Chúa Cứu Thế Giê-xu Tại Ga-li-lê",
-            "Học Phần 5: Chức Vụ Đối Đầu Tại Ga-li-lê Của Chúa Cứu Thế Giê-xu",
-            "Học Phần 6: Chức Vụ Tại Giê-đê Và Bê-rê Của Chúa Cứu Thế Giê-xu",
-            "Học Phần 7: Tuần Lễ Thương Khó Của Chúa Cứu Thế Giê-xu",
-            "Học Phần 8: Sự Đóng Đinh Và Phục Sinh Của Chúa Cứu Thế Giê-xu"
-            ]
-        },
-        {
-          "id": 8,
-          "name": "08-Thư Rô-ma",
-          "item": [
-            "Học Phần 1: Giới Thiệu Rô-ma 1",
-            "Học Phần 2: Rô-ma 2-3",
-            "Học Phần 3: Rô-ma 4-5",
-            "Học Phần 4: Rô-ma 6-7",
-            "Học Phần 5: Rô-ma 8-9",
-            "Học Phần 6: Rô-ma 10-11",
-            "Học Phần 7: Rô-ma 12-14",
-            "Học Phần 8: Rô-ma 15-16"
-            ]
-        },
-        {
-          "id": 9,
-          "name": "09-Biện Giáo Học",
-          "item": [
-            "Học Phần 1: Giới Thiệu Về Biện Giáo Học, Phần 1",
-            "Học Phần 2: Giới Thiệu Về Biện Giáo Học, Phần 2",
-            "Học Phần 3: Tổng Quan Về Các Phương Pháp Biện Giáo",
-            "Học Phần 4: Các Lập Luận Cho Sự Hiện Hữu Của Đức Chúa Trời",
-            "Học Phần 5: Các Lập Luận Cho Cơ Đốc Giáo, Phần 1",
-            "Học Phần 6: Các Lập Luận Cho Cơ Đốc Giáo, Phần 2",
-            "Học Phần 7: Các Lập Luận Cho Cơ Đốc Giáo, Phần 3 - Các Giáo Phái Và Tôn Giáo, Phần 1",
-            "Học Phần 8: Các Giáo Phái Và Tôn Giáo, Phần 2"
-            ]
-        },
-         {
-          "id": 10,
-          "name": "10-Sách Khải Huyền ",
-          "item": [
-            "Học Phần 1: Giới Thiệu Về Khải Huyền: Tổng Quan",
-            "Học Phần 2: Các Thư Gởi Cho Bảy Hội Thánh: Khải Huyền 2-3",
-            "Học Phần 3: Khải Tượng, Phần 1 : Khải Huyền 4-7",
-            "Học Phần 4: Khải Tượng, Phần 2 : Khải Huyền 8-11",
-            "Học Phần 5: Khải Tượng, Phần 3 : Khải Huyền 12-16",
-            "Học Phần 6: Vị Vua Sắp Đến : Khải Huyền 17-21:8",
-            "Học Phần 7: Sự Sáng Tạo Mới Và Kết Luận Của Sách",
-            "Học Phần 8: Sự Kết Thúc"
-            ]
-        },
-         {
-          "id": 11,
-          "name": "11-Giới Thiệu Về Công Tác Tâm Vấn Thánh Kinh",
-          "item": [
-            "Học Phần 1: Nền Tảng Quan Trọng – Tấm Lòng Thờ Phượng",
-            "Học Phần 2: Tấm Lòng Thờ Phượng (tiếp tục)",
-            "Học Phần 3: Điều Gì Đã Xảy Ra Trong Vườn?",
-            "Học Phần 4: Phúc Âm Là Gì?",
-            "Học Phần 5: Cách Con Người Trưởng Thành Và Thay Đổi",
-            "Học Phần 6: Hệ Thống Tâm Vấn Là Hệ Thống Niềm Tin",
-            "Học Phần 7: Sự Thần Cảm, Tính Vô Ngộ, Thẩm Quyền Và Sự Đầy Trọn Của Kinh Thánh",
-            "Học Phần 8: Phát Triển Một Triết Lý Về Mục Vụ Tâm Vấn"
-            ]
-        },
-         {
-          "id": 12,
-          "name": "12-Vùng Đất Của Kinh Thánh",
-          "item": [
-            "Học Phần 1: Thành Cổ Giê-ru-sa-lem",
-            "Học Phần 2: Thành Đa-vít",
-            "Học Phần 3: Thành Cổ, Núi Si-ôn, Mộ Vườn",
-            "Học Phần 4: Bên-Gia-Min Và Giê-ri-cô",
-            "Học Phần 5: Núi Đền Thờ, Núi Ô-li-ve, Mô-áp, Hếp-rôn, Bết-lê-hem",
-            "Học Phần 6: Shephelah, Negev, Masada, Qumran",
-            "Học Phần 7: Bờ Biển, Mê-ghi-đô, Na-xa-rét, Hạ Ga-li-lê, Thung Lũng Gít-rê-ên",
-            "Học Phần 8: Ga-li-lê, Cao Nguyên Golan, Thung Lũng Giô-đanh, Sa-ma-ri"
-            ]
-        },
-         {
-          "id": 13,
-          "name": "13-Hội Thảo Hội Nhập Cao Cấp",
-          "item": [
-
-            ]
-        },
-         {
-          "id": 14,
-          "name": "14-Tiếng Hy Lạp Cơ Bản I",
-          "item": [
-            "Học Phần 1: Các Vấn Đề Giới Thiệu; Bảng Chữ Cái Và Phát Âm Học Phần 8: Trình Bày, Chủ Động, Trình Bày",
-            "Học Phần 2: Danh Từ Tiếng Anh; Các Trường Hợp; Mệnh Danh/Đối Cách; Mạo Từ Xác Định",
-            "Học Phần 3: Sở Hữu Cách, Đại Cách; Giới Từ",
-            "Học Phần 4: Tính Từ; Ôn Lại Giữa Kỳ",
-            "Học Phần 5: Danh Từ Phân Tỏ Rd; Đại Từ Nhân Xưng",
-            "Học Phần 6: Đại Từ Biểu Thị",
-            "Học Phần 7: Đại Từ Tương Đối; Giới Thiệu Động Từ",
-            "Học Phần 8: Trình Bày, Chủ Động, Trình Bày"
-            ]
-        },
-         {
-          "id": 15,
-          "name": "15-Tiếng Hy Lạp Cơ Bản II",
-          "item": [
-            "Học Phần 1: Chào Mừng Đến BL 306",
-            "Học Phần 2: Danh Từ Động Từ/Hình Thức Khác Của Thì Tương Lai; Trình Bày Chưa Hoàn Hảo",
-            "Học Phần 3: Trình Bày; Trình Bày Chủ Động/Trung Bình",
-            "Học Phần 4: Trình Bày Hoàn Hảo",
-            "Học Phần 5: Động Tính Từ; Dạng Trình Diễn Hiện Tại (Liên Tục)",
-            "Học Phần 6: Phân Từ Phó, Từ Số Không Xác Định; Phân Từ Tính Chủ Động",
-            "Học Phần 7: Dạng Phân Từ Hoàn Thành; Dạng Phân Từ Tuyệt Đối; Dạng Phân Từ Giả Định",
-            "Học Phần 8: Thi Cuối Khóa"
-            ]
-        },
-         {
-          "id": 16,
-          "name": "16-Tiếng Hy Lạp Cơ Bản III",
-          "item": [
-            "Học Phần 1: Giới Thiệu Khóa Học; Nguyên Mẫu; Mệnh Lệnh. Động Từ \"Tôi\"",
-            "Học Phần 2: Dạng Phi Trình Bày/Động Từ \"Tôi\" Khác",
-            "Học Phần 3: Dịch Từ Sách Giăng 1:1-10/1 Giăng 2:1-11",
-            "Học Phần 4: 1Giăng 2:12-25 / 1Giăng 2:26-3:10/Ôn Lại Giữa Kỳ",
-            "Học Phần 5: 1Giăng 3:11-24 / 1Giăng 4:1-12/Thi Giữa Kỳ",
-            "Học Phần 6: 1Giăng 4:13-5:5 / 1Giăng 5:6-21",
-            "Học Phần 7: 2Giăng 1-13 / 3Giăng 1-14 / Nghiên Cứu Cho Cuối Khóa",
-            "Học Phần 8: Kỳ Thi Cuối Khóa"
-            ]
-        }
-      ],
+      {
+        "id": 1,
+        "name": "01-Nền Tảng Nghiên Cứu Kinh Thánh",
+        "item": [
+          "Học Phần 1: Giới Thiệu Về Nghiên Cứu Kinh Thánh, Phần 1",
+          "Học Phần 2: Giới Thiệu Về Nghiên Cứu Kinh Thánh, Phần 2",
+          "Học Phần 3: Kiến Thức Thông Tin-Chiến Lược Nghiên Cứu, Phần 1",
+          "Học Phần 4: Kiến Thức Thông Tin-Chiến Lược Nghiên Cứu, Phần 2",
+          "Học Phần 5: Kiến Thức Thông Tin-Chiến Lược Nghiên Cứu, Phần 3",
+          "Học Phần 6: Viết Học Thuật-Viết Cơ Học",
+          "Học Phần 7: Viết Học Thuật-Cấu Trúc Bài Viết",
+          "Học Phần 8: Đánh Giá Viết Học Thuật"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "02-Giải Nghĩa Kinh Thánh",
+        "item": [
+          "Học Phần 1: Giới Thiệu Về Việc Giải Nghĩa Kinh Thánh ",
+          "Học Phần 2: Bối Cảnh Lịch Sử",
+          "Học Phần 3: Bối Cảnh Văn Học-Tổng Quan",
+          "Học Phần 4: Bối Cảnh Văn Học-Đặc Thù",
+          "Học Phần 5: Vai Trò Của Cú Pháp",
+          "Học Phần 6: Nghiên Cứu Từ",
+          "Học Phần 7: Giải Thích",
+          "Học Phần 8: Áp Dụng"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "03-Thần Học Về Đức Chúa Trời",
+        "item": [
+          "Học Phần 1: Nền Tảng",
+          "Học Phần 2: Nền Tảng, (tiếp tục)",
+          "Học Phần 3: Lịch Sử",
+          "Học Phần 4: Lịch Sử - Kiến Thức Về Đức Chúa Trời",
+          "Học Phần 5: Những Thuộc Tính Phi Đạo Đức",
+          "Học Phần 6: Những Thuộc Tính Phi Đạo Đức, (tiếp tục)",
+          "Học Phần 7: Vấn Đề Điều Ác ",
+          "Học Phần 8: Vấn Đề Điều Ác, (tiếp tục)"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "04-Sáng Thế ",
+        "item": [
+          "Học Phần 1: Bối Cảnh Của Sáng Thế Và Sự Sáng Tạo",
+          "Học Phần 2: Sự Sa Ngã Của Nhân Loại Và Những Hậu Quả Của Nó",
+          "Học Phần 3: Hai Gia Đình Và Cơn Nước Lưng",
+          "Học Phần 4: Nô-ê Và Các Con Trai Ông",
+          "Học Phần 5: Áp-ram: Sự Kêu Gọi Và Những Thử Thách Của Ông",
+          "Học Phần 6: Áp-ra-ham: Sự Trung Tín Và Trọn Vẹn Của Ông",
+          "Học Phần 7: Những Thăng Trầm Của Gia-Cốp",
+          "Học Phần 8: Giô-sép Và Các Anh Em"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "05-Lịch Sử Y-sơ-ra-ên Cổ Đại ",
+        "item": [
+          "Học Phần 1: Giới Thiệu; Địa Lý Y-sơ-ra-ên; Giai Đoạn Các Tộc Trưởng",
+          "Học Phần 2: Xuất Hành Khỏi Ai Cập; Đi Lang Thang Trong Đồng Vắng; Chinh Phục Và Chiếm Xứ Ca-na-an",
+          "Học Phần 3: Giai Đoạn Các Quan Xét Và Triều Đại Của Vua Sau-lơ",
+          "Học Phần 4: Cuộc Đời, Triều Đại Của Đa-vít",
+          "Học Phần 5: Triều Đại Của Sa-lô-môn - Sự Khởi Đầu Của Nền Quân Chủ Bị Chia Cắt",
+          "Học Phần 6: Nền Quân Chủ Bị Chia Cắt Thông Qua Sự Sụp Đổ Của Vương Quốc Phía Bắc",
+          "Học Phần 7: Ê-xê-chia Thông Qua Sự Sụp Đổ Của Giê-ru-sa-lem",
+          "Học Phần 8: Thời Kỳ Lưu Đày Và Hậu Lưu Đày"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "06-Ê-sai",
+        "item": [
+          "Học Phần 1: Giới Thiệu Văn Chương Tiên Tri Và Sách Ê-sai",
+          "Học Phần 2: Ê-sai 1-6",
+          "Học Phần 3: Ê-sai 7-12",
+          "Học Phần 4: Ê-sai 13-27",
+          "Học Phần 5: Ê-sai 28-39",
+          "Học Phần 6: Ê-sai 40-48",
+          "Học Phần 7: Ê-sai 49-55",
+          "Học Phần 8: Ê-sai 56-66"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "07-Cuộc Đời Của Chúa Cứu Thế ",
+        "item": [
+          "Học Phần 1: Giới Thiệu Về Chúa Cứu Thế Giê-xu Và Các Sách Phúc Âm",
+          "Học Phần 2: Những Năm Đầu Của Chúa Cứu Thế Giê-xu",
+          "Học Phần 3: Chức Vụ Của Giăng Báp-tít Với Chúa Cứu Thế",
+          "Học Phần 4: Chức Vụ Đang Phát Triển Của Chúa Cứu Thế Giê-xu Tại Ga-li-lê",
+          "Học Phần 5: Chức Vụ Đối Đầu Tại Ga-li-lê Của Chúa Cứu Thế Giê-xu",
+          "Học Phần 6: Chức Vụ Tại Giê-đê Và Bê-rê Của Chúa Cứu Thế Giê-xu",
+          "Học Phần 7: Tuần Lễ Thương Khó Của Chúa Cứu Thế Giê-xu",
+          "Học Phần 8: Sự Đóng Đinh Và Phục Sinh Của Chúa Cứu Thế Giê-xu"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "08-Thư Rô-ma",
+        "item": [
+          "Học Phần 1: Giới Thiệu Rô-ma 1",
+          "Học Phần 2: Rô-ma 2-3",
+          "Học Phần 3: Rô-ma 4-5",
+          "Học Phần 4: Rô-ma 6-7",
+          "Học Phần 5: Rô-ma 8-9",
+          "Học Phần 6: Rô-ma 10-11",
+          "Học Phần 7: Rô-ma 12-14",
+          "Học Phần 8: Rô-ma 15-16"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "09-Biện Giáo Học",
+        "item": [
+          "Học Phần 1: Giới Thiệu Về Biện Giáo Học, Phần 1",
+          "Học Phần 2: Giới Thiệu Về Biện Giáo Học, Phần 2",
+          "Học Phần 3: Tổng Quan Về Các Phương Pháp Biện Giáo",
+          "Học Phần 4: Các Lập Luận Cho Sự Hiện Hữu Của Đức Chúa Trời",
+          "Học Phần 5: Các Lập Luận Cho Cơ Đốc Giáo, Phần 1",
+          "Học Phần 6: Các Lập Luận Cho Cơ Đốc Giáo, Phần 2",
+          "Học Phần 7: Các Lập Luận Cho Cơ Đốc Giáo, Phần 3 - Các Giáo Phái Và Tôn Giáo, Phần 1",
+          "Học Phần 8: Các Giáo Phái Và Tôn Giáo, Phần 2"
+        ]
+      },
+      {
+        "id": 10,
+        "name": "10-Sách Khải Huyền ",
+        "item": [
+          "Học Phần 1: Giới Thiệu Về Khải Huyền: Tổng Quan",
+          "Học Phần 2: Các Thư Gởi Cho Bảy Hội Thánh: Khải Huyền 2-3",
+          "Học Phần 3: Khải Tượng, Phần 1 : Khải Huyền 4-7",
+          "Học Phần 4: Khải Tượng, Phần 2 : Khải Huyền 8-11",
+          "Học Phần 5: Khải Tượng, Phần 3 : Khải Huyền 12-16",
+          "Học Phần 6: Vị Vua Sắp Đến : Khải Huyền 17-21:8",
+          "Học Phần 7: Sự Sáng Tạo Mới Và Kết Luận Của Sách",
+          "Học Phần 8: Sự Kết Thúc"
+        ]
+      },
+      {
+        "id": 11,
+        "name": "11-Giới Thiệu Về Công Tác Tâm Vấn Thánh Kinh",
+        "item": [
+          "Học Phần 1: Nền Tảng Quan Trọng – Tấm Lòng Thờ Phượng",
+          "Học Phần 2: Tấm Lòng Thờ Phượng (tiếp tục)",
+          "Học Phần 3: Điều Gì Đã Xảy Ra Trong Vườn?",
+          "Học Phần 4: Phúc Âm Là Gì?",
+          "Học Phần 5: Cách Con Người Trưởng Thành Và Thay Đổi",
+          "Học Phần 6: Hệ Thống Tâm Vấn Là Hệ Thống Niềm Tin",
+          "Học Phần 7: Sự Thần Cảm, Tính Vô Ngộ, Thẩm Quyền Và Sự Đầy Trọn Của Kinh Thánh",
+          "Học Phần 8: Phát Triển Một Triết Lý Về Mục Vụ Tâm Vấn"
+        ]
+      },
+      {
+        "id": 12,
+        "name": "12-Vùng Đất Của Kinh Thánh",
+        "item": [
+          "Học Phần 1: Thành Cổ Giê-ru-sa-lem",
+          "Học Phần 2: Thành Đa-vít",
+          "Học Phần 3: Thành Cổ, Núi Si-ôn, Mộ Vườn",
+          "Học Phần 4: Bên-Gia-Min Và Giê-ri-cô",
+          "Học Phần 5: Núi Đền Thờ, Núi Ô-li-ve, Mô-áp, Hếp-rôn, Bết-lê-hem",
+          "Học Phần 6: Shephelah, Negev, Masada, Qumran",
+          "Học Phần 7: Bờ Biển, Mê-ghi-đô, Na-xa-rét, Hạ Ga-li-lê, Thung Lũng Gít-rê-ên",
+          "Học Phần 8: Ga-li-lê, Cao Nguyên Golan, Thung Lũng Giô-đanh, Sa-ma-ri"
+        ]
+      },
+      {
+        "id": 13,
+        "name": "13-Hội Thảo Hội Nhập Cao Cấp",
+        "item": []
+      },
+      {
+        "id": 14,
+        "name": "14-Tiếng Hy Lạp Cơ Bản I",
+        "item": [
+          "Học Phần 1: Các Vấn Đề Giới Thiệu; Bảng Chữ Cái Và Phát Âm Học Phần 8: Trình Bày, Chủ Động, Trình Bày",
+          "Học Phần 2: Danh Từ Tiếng Anh; Các Trường Hợp; Mệnh Danh/Đối Cách; Mạo Từ Xác Định",
+          "Học Phần 3: Sở Hữu Cách, Đại Cách; Giới Từ",
+          "Học Phần 4: Tính Từ; Ôn Lại Giữa Kỳ",
+          "Học Phần 5: Danh Từ Phân Tỏ Rd; Đại Từ Nhân Xưng",
+          "Học Phần 6: Đại Từ Biểu Thị",
+          "Học Phần 7: Đại Từ Tương Đối; Giới Thiệu Động Từ",
+          "Học Phần 8: Trình Bày, Chủ Động, Trình Bày"
+        ]
+      },
+      {
+        "id": 15,
+        "name": "15-Tiếng Hy Lạp Cơ Bản II",
+        "item": [
+          "Học Phần 1: Chào Mừng Đến BL 306",
+          "Học Phần 2: Danh Từ Động Từ/Hình Thức Khác Của Thì Tương Lai; Trình Bày Chưa Hoàn Hảo",
+          "Học Phần 3: Trình Bày; Trình Bày Chủ Động/Trung Bình",
+          "Học Phần 4: Trình Bày Hoàn Hảo",
+          "Học Phần 5: Động Tính Từ; Dạng Trình Diễn Hiện Tại (Liên Tục)",
+          "Học Phần 6: Phân Từ Phó, Từ Số Không Xác Định; Phân Từ Tính Chủ Động",
+          "Học Phần 7: Dạng Phân Từ Hoàn Thành; Dạng Phân Từ Tuyệt Đối; Dạng Phân Từ Giả Định",
+          "Học Phần 8: Thi Cuối Khóa"
+        ]
+      },
+      {
+        "id": 16,
+        "name": "16-Tiếng Hy Lạp Cơ Bản III",
+        "item": [
+          "Học Phần 1: Giới Thiệu Khóa Học; Nguyên Mẫu; Mệnh Lệnh. Động Từ \"Tôi\"",
+          "Học Phần 2: Dạng Phi Trình Bày/Động Từ \"Tôi\" Khác",
+          "Học Phần 3: Dịch Từ Sách Giăng 1:1-10/1 Giăng 2:1-11",
+          "Học Phần 4: 1Giăng 2:12-25 / 1Giăng 2:26-3:10/Ôn Lại Giữa Kỳ",
+          "Học Phần 5: 1Giăng 3:11-24 / 1Giăng 4:1-12/Thi Giữa Kỳ",
+          "Học Phần 6: 1Giăng 4:13-5:5 / 1Giăng 5:6-21",
+          "Học Phần 7: 2Giăng 1-13 / 3Giăng 1-14 / Nghiên Cứu Cho Cuối Khóa",
+          "Học Phần 8: Kỳ Thi Cuối Khóa"
+        ]
+      }
+    ],
     "master": [
-         {
-          "id": 1,
-          "name": "01-Giới Thiệu Về Nghiên Cứu Kinh Thánh",
-          "item": [
-              "Học Phần 1: Tầm Quan Trọng Của Nghiên Cứu Kinh Thánh",
-              "Học Phần 2: Các Chủ Đề Trong Nghiên Cứu Kinh Thánh",
-              "Học Phần 3: Cách Hoạt Động Của Chương Trình Nghiên Cứu Kinh Thánh",
-              "Học Phần 4: Các Kỹ Thuật Nghiên Cứu Trong Nghiên Cứu Kinh Thánh",
-              "Học Phần 5: Niềm Tin Chính – Sự Thần Cảm Và Bản Dịch",
-              "Học Phần 6: Niềm Tin Chính – Tính Không Sai Lạc",
-              "Học Phần 7: Xác Tín Trọng Điểm – Kinh Điển",
-              "Học Phần 8: Xác Tín Trọng Điểm – Phê Bình Văn Bản Và Bảo Tồn"
-            ]
-        },
-         {
-          "id": 2,
-          "name": "02-Giải Kinh Học",
-          "item": [
-              "Học Phần 1: Quan Điểm Lý Thuyết Về Giải Kinh Học",
-              "Học Phần 2: Hướng Dẫn Thực Hành Về Giải Kinh Học",
-              "Học Phần 3: Các Công Cụ Của Giải Kinh Học",
-              "Học Phần 4: Giải Nghĩa Cựu Ước",
-              "Học Phần 5: Hiểu \"Ý Nghĩa\" Của Ý Nghĩa Và Ngụ Ý",
-              "Học Phần 6: Chúa Giê-xu Là Sự Hoàn Thành Giải Nghĩa",
-              "Học Phần 7: Cựu Và Tân Ước",
-              "Học Phần 8: Bài Luận Giải"
-            ]
-        },
-        {
-          "id": 3,
-          "name": "03-Sự Sáng Tạo - Giao Ước",
-          "item": [
-              "Học Phần 1: Sáng Thế Ký 1-2",
-              "Học Phần 2: Sáng Thế Ký 1-2 (Pt 2)",
-              "Học Phần 3: Sáng Thế Ký 3-11",
-              "Học Phần 4: Sáng Thế Ký 12-50",
-              "Học Phần 5: Xuất Hành",
-              "Học Phần 6: Lê-vi Ký",
-              "Học Phần 7: Dân Số Ký",
-              "Học Phần 8: Phục Truyền Luật Lệ Ký"
-            ]
-        },
-        {
-          "id": 4,
-          "name": "04-Lịch Sử Dân Giao Ước",
-          "item": [
-              "Học Phần 1: Giới Thiệu, Lịch Sử Và Bối Cảnh Ane (Lịch Sử Và Văn Học)",
-              "Học Phần 2: Địa Lý Của Y-sơ-ra-ên, Niên Đại Học Và Thời Kỳ Các Tộc Trưởng (Qua Giô-sép)",
-              "Học Phần 3: Xuất Hành Khỏi Ai Cập, Đi Lang Thang Trong Đồng Vắng, Chinh Phục Và Chiếm Xứ Ca-na-an",
-              "Học Phần 4: Thời Kỳ Các Quan Xét Và Triều Đại Của Vua Sau-lơ",
-              "Học Phần 5: Cuộc Đời Và Triều Đại Của Đa-vít Và Sa-lô-môn Và Sự Khởi Đầu Của Nền Quân Chủ Chia Đôi",
-              "Học Phần 6: Nền Quân Chủ Chia Đôi Thông Qua Sự Sụp Đổ Của Vương Quốc Phía Bắc",
-              "Học Phần 7: Ê-xê-chia Thông Qua Sự Sụp Đổ Của Giê-ru-sa-lem",
-              "Học Phần 8: Thời Kỳ Lưu Đày Và Hậu Lưu Đày, Tổng Quan Về Khảo Cổ Học Và Kinh Thánh"
-            ]
-        },
-        {
-          "id": 5,
-          "name": "05-Lời Tiên Tri Và Các Tiên Tri Trong Ngữ Cảnh",
-          "item": [
-              "Học Phần 1: Giới Thiệu Về Lời Tiên Tri Và Ê-sai",
-              "Học Phần 2: Giê-rê-mi",
-              "Học Phần 3: Ê-xê-chi-ên",
-              "Học Phần 4: Đa-ni-ên",
-              "Học Phần 5: Mười Hai (Ô-sê đến Áp-đia)",
-              "Học Phần 6: Mười Hai (Giô-na đến Ha-ba-cúc)",
-              "Học Phần 7: Mười Hai (Sô-phô-ni đến Xa-cha-ri)",
-              "Học Phần 8: Mười Hai (Ma-la-chi và xa hơn)"
-            ]
-        },
-        {
-          "id": 6,
-          "name": "06-Thờ Phượng Và Sự Khôn Ngoan",
-          "item": [
-              "Học Phần 1: Thi Thiên 1-41",
-              "Học Phần 2: Thi Thiên 42-72",
-              "Học Phần 3: Thi Thiên 73-106",
-              "Học Phần 4: Thi Thiên 107-150",
-              "Học Phần 5: Sách Gióp",
-              "Học Phần 6: Sách Châm Ngôn",
-              "Học Phần 7: Sách Truyền Đạo",
-              "Học Phần 8: Sách Nhã Ca"
-            ]
-        },
-        {
-          "id": 7,
-          "name": "07-Bối Cảnh Lịch Sử Tân Ước",
-          "item": [
-               "Học Phần 1: Lịch Sử, Xã Hội Và Văn Hóa Hy-La",
-                "Học Phần 2: Tôn Giáo Và Triết Học Hy-La",
-                "Học Phần 3: Lịch Sử Do Thái",
-                "Học Phần 4: Nguồn Gốc Do Thái",
-                "Học Phần 5: Đảng Và Giáo Phái Do Thái",
-                "Học Phần 6: Niềm Tin Và Thực Hành Của Người Do Thái",
-                "Học Phần 7: Các Tổ Chức Và Thể Chế Của Người Do Thái",
-                "Học Phần 8: Cơ Đốc Giáo Trong Thế Giới Cổ Đại"
-            ]
-        },
-        {
-          "id": 8,
-          "name": "08-Đời Sống, Chức Vụ và Thần Học của Chúa Cứu Thế",
-          "item": [
-              "Học Phần 1: Tổng Quan Về Cuộc Đời Chúa Cứu Thế",
-              "Học Phần 2: Khởi Đầu Cuộc Đời Chúa Cứu Thế",
-              "Học Phần 3: Khởi Đầu Chức Vụ Của Chúa Cứu Thế / Thời Kỳ Ga-li-lê Vĩ Đại",
-              "Học Phần 4: Thời Kỳ Ga-li-lê (tiếp theo)",
-              "Học Phần 5: Thời Kỳ Rút Lui - Thịnh Vượng",
-              "Học Phần 6: Thời Kỳ Rút Lui / Suy Thoái (tiếp theo); Tuần Lễ Thương Khó",
-              "Học Phần 7: Tuần Lễ Thương Khó (tiếp theo)",
-              "Học Phần 8: Tuần Lễ Thương Khó (tiếp theo) / Hậu Phục Sinh"
-            ]
-        },
-        {
-          "id": 9,
-          "name": "09-Hội Thánh Đầu Tiên Và Sách Công Vụ",
-          "item": [
-             "Học Phần 1: Thế Giới Thời Tân Ước",
-              "Học Phần 2: Sự Khai Sinh Hội Thánh",
-              "Học Phần 3: Sa-ma-ri và xa hơn",
-              "Học Phần 4: Những Năm Đầu Của Phao-lô",
-              "Học Phần 5: Phúc Âm Đi Về Phía Tây",
-              "Học Phần 6: Các Sứ Đồ Sau Công Vụ",
-              "Học Phần 7: Hội Thánh Giê-ru-sa-lem",
-              "Học Phần 8: Hội Thánh Dân Ngoại"
-            ]
-        },
-        {
-          "id": 10,
-          "name": "10-Thư Tín Và Thần Học Của Phao-lô",
-          "item": [
-              "Học Phần 1: Giới Thiệu Về Phao-lô",
-              "Học Phần 2: Rô-ma",
-              "Học Phần 3: Rô-ma Và Thư Tín Cô-rinh-tô",
-              "Học Phần 4: Thư Tín Cô-rinh-tô",
-              "Học Phần 5: Ga-la-ti - 2Tê-sa-lô-ni-ca",
-              "Học Phần 6: Ga-la-ti - 2Tê-sa-lô-ni-ca (tiếp theo)",
-              "Học Phần 7: Các Thư Tín Mục Vụ",
-              "Học Phần 8: Các Thư Tín Mục Vụ - Kết Luận"
-            ]
-        },
-        {
-          "id": 11,
-          "name": "11-Thư Hê-Bơ-Rơ Và Các Thư Tín Tổng Quát",
-          "item": [
-             "Học Phần 1: Hê-bơ-rơ, Phần I H",
-            "Học Phần 2: Hê-bơ-rơ, Phần II",
-            "Học Phần 3: Gia-cơ, Phần I",
-            "Học Phần 4: Gia-cơ, Phần II",
-            "Học Phần 5: 1Phi-e-rơ",
-            "Học Phần 6: 2Phi-e-rơ",
-            "Học Phần 7: 1Giăng",
-            "ọc Phần 8: 2Giăng đến Thư Giu-Đe"
-            ]
-        },
-        {
-          "id": 12,
-          "name": "12-Chủ Đề Trọng Tâm Trong Thần Học Thánh Kinh",
-          "item": [
-              "Học Phần 1: Thực Tế Của Thần Học Và Phương Pháp Thánh Kinh",
-              "Học Phần 2: Thần Học Thánh Kinh Với Thần Học Hệ Thống",
-              "Học Phần 3: Sáng Thế Ký Với Các Sách Lịch Sử",
-              "Học Phần 4: Sự Khôn Ngoan Và Thần Học Về Khải Tượng",
-              "Học Phần 5: Các Sách Phúc Âm - Công Vụ",
-              "Học Phần 6: Các Thư Tín Của Phao-Lô",
-              "Học Phần 7: Các Thư Tín Tổng Quát",
-              "Học Phần 8: Vương Quốc"
-            ]
-        },
-        {
-          "id": 13,
-          "name": "13-Sứ Mạng Đức Chúa Trời Giao Cho Hội Thánh Địa Phương",
-          "item": [
-              "Học Phần 1: Tóm Tắt Những Gì Hội Thánh Địa Phương Làm Trong Các Sứ Mạng",
-              "Học Phần 2: Những Gì Kinh Thánh Dạy Về Các Sứ Mạng Cả Trên Toàn Cầu Và Địa Phương",
-              "Học Phần 3: Định Nghĩa Về Hội Thánh Sai Phái",
-              "Học Phần 4: Hồ Sơ Đánh Giá Sứ Mạng Và Trách Nhiệm Truyền Giáo",
-              "Học Phần 5: Triết Lý Nhiệm Vụ Ngắn Hạn Và Tuyển Dụng Đội Ngũ Ngắn Hạn",
-              "Học Phần 6: Triết Lý Ngắn Hạn",
-              "Học Phần 7: Chính Sách Và Thủ Tục Ngắn Hạn",
-              "Học Phần 8: Hoàn Thành Sổ Tay Chính Sách Ngắn Hạn Và Nhiệm Vụ"
-            ]
-        },
-        {
-          "id": 14,
-          "name": "14-Trách Nhiệm Đức Chúa Trời Giao Trên Thế Giới",
-          "item": [
-              "Học Phần 1: Thế Giới Quan",
-              "Học Phần 2: Truyền Giáo",
-              "Học Phần 3: Phật Giáo",
-              "Học Phần 4: Hồi Giáo",
-              "Học Phần 5: Công Giáo",
-              "Học Phần 6: Chủ Nghĩa Thế Tục / Chủ Nghĩa Duy Vật",
-              "Học Phần 7: Ấn Độ Giáo",
-              "Học Phần 8: Tổng Kết"
-            ]
-        },
-       {
-          "id": 15,
-          "name": "15-Vùng Đất Của Kinh Thánh",
-          "item": [
-              "Học Phần 1: Thành Cổ Giê-ru-sa-lem",
-              "Học Phần 2: Thành Đa-vít",
-              "Học Phần 3: Thành Cổ, Núi Si-ôn, Mộ Vườn",
-              "Học Phần 4: Bên-gia-min Và Giê-ri-cô",
-              "Học Phần 5: Núi Đền Thờ, Núi Ô-li-ve, Mô-áp, Hếp-rôn, Bết-lê-hem",
-              "Học Phần 6: Shephelah, Negev, Masada, Qumran",
-              "Học Phần 7: Bờ Biển, Mê-ghi-đô, Na-xa-rét, Hạ Ga-li-lê, Thung Lũng Gít-rê-ên",
-              "Học Phần 8: Ga-li-lê, Đồi Gô-gô-tha, Thung Lũng Giô-đanh, Sa-ma-ri"
-            ]
-        },
-        {
-          "id": 16,
-          "name": "16-Tiếng Hy Lạp Trung Cấp",
-          "item": [
-                "Học Phần 1: Giải Quyết Những Trường Hợp Đó",
-                "Học Phần 2: Những Bài Viết - Tính Từ Rõ Ràng Lớn Nhỏ",
-                "Học Phần 3: Moody Times Với Động Từ",
-                "Học Phần 4: Thời Gian Tense Với Động Từ (1)",
-                "Học Phần 5: Thời Gian Tense Với Động Từ (2)",
-                "Học Phần 6: Thời Gian Căng Thẳng Với Động Từ (3)",
-                "Học Phần 7: Đi Và Đến",
-                "Học Phần 8: Tồn Tại Hay Không Tồn Tại"
-            ]
-        },
-        {
-          "id": 17,
-          "name": "17-Tiếng Hê-bơ-rơ Trung Cấp",
-          "item": [
-               "Học Phần 1: Giới Thiệu - Danh Từ",
-                "Học Phần 2: Danh Từ, Tính Từ Và Phó Từ",
-                "Học Phần 3: Đại Từ - Giới Từ",
-                "Học Phần 4: Liên Từ - Động Từ",
-                "Học Phần 5: Động Từ",
-                "Học Phần 6: Mệnh Đề Định Lượng",
-                "Học Phần 7: Mệnh Đề Chính - Mệnh Đề Biến Đổi",
-                "Học Phần 8: Bài Kiểm Tra Cuối Khóa"
-            ]
-        },
-        {
-          "id": 18,
-          "name": "18-Giải Nghĩa Tiếng Hê-Bơ-Rơ Trung Cấp",
-          "item": [
-                "Học Phần 1: Giới Thiệu Khóa Học, Nguồn Lực, Mệnh Đề Chính, Mệnh Đề Biến Đổi",
-                "Học Phần 2: Mệnh Đề Biến Đổi - Cụm Từ",
-                "Học Phần 3: Cụm Tính Từ, Phó Từ, Thi 1, Cụm Động Từ, Phân Tích Cụm Từ",
-                "Học Phần 4: Phân Tích Câu, Chuỗi Biến Đổi, Trọng Âm",
-                "Học Phần 5: Trọng Âm, Phụ Lục, Thi 2",
-                "Học Phần 6: Từ Vựng - Bản Dịch Của Jonah &Amp; Ruth",
-                "Học Phần 7: Bản Dịch Và Bài Chú Giải Của Ruth",
-                "Học Phần 8: Phê Bình Bản Văn - Cuối Cùng"
-            ]
-        },
-        {
-          "id": 19,
-          "name": "19-Thần Học Hệ Thống",
-          "item": [
-
-            ]
-        },
-        {
-          "id": 20,
-          "name": "20-Thần Học Biện Giáo",
-          "item": [
-
-            ]
-        },
-         {
-          "id": 21,
-          "name": "21-Vấn Đề Đương Đại Trong Thần Học",
-          "item": [
-
-            ]
-        },
-         {
-          "id": 22,
-          "name": "22-Những Nghiên Cứu Trong Thần Học",
-          "item": [
-
-            ]
-        },
-         {
-          "id": 23,
-          "name": "23-Thần Học Thực Hành ",
-          "item": [
-
-            ]
-        }
-      ]
+      {
+        "id": 1,
+        "name": "01-Giới Thiệu Về Nghiên Cứu Kinh Thánh",
+        "item": [
+          "Học Phần 1: Tầm Quan Trọng Của Nghiên Cứu Kinh Thánh",
+          "Học Phần 2: Các Chủ Đề Trong Nghiên Cứu Kinh Thánh",
+          "Học Phần 3: Cách Hoạt Động Của Chương Trình Nghiên Cứu Kinh Thánh",
+          "Học Phần 4: Các Kỹ Thuật Nghiên Cứu Trong Nghiên Cứu Kinh Thánh",
+          "Học Phần 5: Niềm Tin Chính – Sự Thần Cảm Và Bản Dịch",
+          "Học Phần 6: Niềm Tin Chính – Tính Không Sai Lạc",
+          "Học Phần 7: Xác Tín Trọng Điểm – Kinh Điển",
+          "Học Phần 8: Xác Tín Trọng Điểm – Phê Bình Văn Bản Và Bảo Tồn"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "02-Giải Kinh Học",
+        "item": [
+          "Học Phần 1: Quan Điểm Lý Thuyết Về Giải Kinh Học",
+          "Học Phần 2: Hướng Dẫn Thực Hành Về Giải Kinh Học",
+          "Học Phần 3: Các Công Cụ Của Giải Kinh Học",
+          "Học Phần 4: Giải Nghĩa Cựu Ước",
+          "Học Phần 5: Hiểu \"Ý Nghĩa\" Của Ý Nghĩa Và Ngụ Ý",
+          "Học Phần 6: Chúa Giê-xu Là Sự Hoàn Thành Giải Nghĩa",
+          "Học Phần 7: Cựu Và Tân Ước",
+          "Học Phần 8: Bài Luận Giải"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "03-Sự Sáng Tạo - Giao Ước",
+        "item": [
+          "Học Phần 1: Sáng Thế Ký 1-2",
+          "Học Phần 2: Sáng Thế Ký 1-2 (Pt 2)",
+          "Học Phần 3: Sáng Thế Ký 3-11",
+          "Học Phần 4: Sáng Thế Ký 12-50",
+          "Học Phần 5: Xuất Hành",
+          "Học Phần 6: Lê-vi Ký",
+          "Học Phần 7: Dân Số Ký",
+          "Học Phần 8: Phục Truyền Luật Lệ Ký"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "04-Lịch Sử Dân Giao Ước",
+        "item": [
+          "Học Phần 1: Giới Thiệu, Lịch Sử Và Bối Cảnh Ane (Lịch Sử Và Văn Học)",
+          "Học Phần 2: Địa Lý Của Y-sơ-ra-ên, Niên Đại Học Và Thời Kỳ Các Tộc Trưởng (Qua Giô-sép)",
+          "Học Phần 3: Xuất Hành Khỏi Ai Cập, Đi Lang Thang Trong Đồng Vắng, Chinh Phục Và Chiếm Xứ Ca-na-an",
+          "Học Phần 4: Thời Kỳ Các Quan Xét Và Triều Đại Của Vua Sau-lơ",
+          "Học Phần 5: Cuộc Đời Và Triều Đại Của Đa-vít Và Sa-lô-môn Và Sự Khởi Đầu Của Nền Quân Chủ Chia Đôi",
+          "Học Phần 6: Nền Quân Chủ Chia Đôi Thông Qua Sự Sụp Đổ Của Vương Quốc Phía Bắc",
+          "Học Phần 7: Ê-xê-chia Thông Qua Sự Sụp Đổ Của Giê-ru-sa-lem",
+          "Học Phần 8: Thời Kỳ Lưu Đày Và Hậu Lưu Đày, Tổng Quan Về Khảo Cổ Học Và Kinh Thánh"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "05-Lời Tiên Tri Và Các Tiên Tri Trong Ngữ Cảnh",
+        "item": [
+          "Học Phần 1: Giới Thiệu Về Lời Tiên Tri Và Ê-sai",
+          "Học Phần 2: Giê-rê-mi",
+          "Học Phần 3: Ê-xê-chi-ên",
+          "Học Phần 4: Đa-ni-ên",
+          "Học Phần 5: Mười Hai (Ô-sê đến Áp-đia)",
+          "Học Phần 6: Mười Hai (Giô-na đến Ha-ba-cúc)",
+          "Học Phần 7: Mười Hai (Sô-phô-ni đến Xa-cha-ri)",
+          "Học Phần 8: Mười Hai (Ma-la-chi và xa hơn)"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "06-Thờ Phượng Và Sự Khôn Ngoan",
+        "item": [
+          "Học Phần 1: Thi Thiên 1-41",
+          "Học Phần 2: Thi Thiên 42-72",
+          "Học Phần 3: Thi Thiên 73-106",
+          "Học Phần 4: Thi Thiên 107-150",
+          "Học Phần 5: Sách Gióp",
+          "Học Phần 6: Sách Châm Ngôn",
+          "Học Phần 7: Sách Truyền Đạo",
+          "Học Phần 8: Sách Nhã Ca"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "07-Bối Cảnh Lịch Sử Tân Ước",
+        "item": [
+          "Học Phần 1: Lịch Sử, Xã Hội Và Văn Hóa Hy-La",
+          "Học Phần 2: Tôn Giáo Và Triết Học Hy-La",
+          "Học Phần 3: Lịch Sử Do Thái",
+          "Học Phần 4: Nguồn Gốc Do Thái",
+          "Học Phần 5: Đảng Và Giáo Phái Do Thái",
+          "Học Phần 6: Niềm Tin Và Thực Hành Của Người Do Thái",
+          "Học Phần 7: Các Tổ Chức Và Thể Chế Của Người Do Thái",
+          "Học Phần 8: Cơ Đốc Giáo Trong Thế Giới Cổ Đại"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "08-Đời Sống, Chức Vụ và Thần Học của Chúa Cứu Thế",
+        "item": [
+          "Học Phần 1: Tổng Quan Về Cuộc Đời Chúa Cứu Thế",
+          "Học Phần 2: Khởi Đầu Cuộc Đời Chúa Cứu Thế",
+          "Học Phần 3: Khởi Đầu Chức Vụ Của Chúa Cứu Thế / Thời Kỳ Ga-li-lê Vĩ Đại",
+          "Học Phần 4: Thời Kỳ Ga-li-lê (tiếp theo)",
+          "Học Phần 5: Thời Kỳ Rút Lui - Thịnh Vượng",
+          "Học Phần 6: Thời Kỳ Rút Lui / Suy Thoái (tiếp theo); Tuần Lễ Thương Khó",
+          "Học Phần 7: Tuần Lễ Thương Khó (tiếp theo)",
+          "Học Phần 8: Tuần Lễ Thương Khó (tiếp theo) / Hậu Phục Sinh"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "09-Hội Thánh Đầu Tiên Và Sách Công Vụ",
+        "item": [
+          "Học Phần 1: Thế Giới Thời Tân Ước",
+          "Học Phần 2: Sự Khai Sinh Hội Thánh",
+          "Học Phần 3: Sa-ma-ri và xa hơn",
+          "Học Phần 4: Những Năm Đầu Của Phao-lô",
+          "Học Phần 5: Phúc Âm Đi Về Phía Tây",
+          "Học Phần 6: Các Sứ Đồ Sau Công Vụ",
+          "Học Phần 7: Hội Thánh Giê-ru-sa-lem",
+          "Học Phần 8: Hội Thánh Dân Ngoại"
+        ]
+      },
+      {
+        "id": 10,
+        "name": "10-Thư Tín Và Thần Học Của Phao-lô",
+        "item": [
+          "Học Phần 1: Giới Thiệu Về Phao-lô",
+          "Học Phần 2: Rô-ma",
+          "Học Phần 3: Rô-ma Và Thư Tín Cô-rinh-tô",
+          "Học Phần 4: Thư Tín Cô-rinh-tô",
+          "Học Phần 5: Ga-la-ti - 2Tê-sa-lô-ni-ca",
+          "Học Phần 6: Ga-la-ti - 2Tê-sa-lô-ni-ca (tiếp theo)",
+          "Học Phần 7: Các Thư Tín Mục Vụ",
+          "Học Phần 8: Các Thư Tín Mục Vụ - Kết Luận"
+        ]
+      },
+      {
+        "id": 11,
+        "name": "11-Thư Hê-Bơ-Rơ Và Các Thư Tín Tổng Quát",
+        "item": [
+          "Học Phần 1: Hê-bơ-rơ, Phần I H",
+          "Học Phần 2: Hê-bơ-rơ, Phần II",
+          "Học Phần 3: Gia-cơ, Phần I",
+          "Học Phần 4: Gia-cơ, Phần II",
+          "Học Phần 5: 1Phi-e-rơ",
+          "Học Phần 6: 2Phi-e-rơ",
+          "Học Phần 7: 1Giăng",
+          "ọc Phần 8: 2Giăng đến Thư Giu-Đe"
+        ]
+      },
+      {
+        "id": 12,
+        "name": "12-Chủ Đề Trọng Tâm Trong Thần Học Thánh Kinh",
+        "item": [
+          "Học Phần 1: Thực Tế Của Thần Học Và Phương Pháp Thánh Kinh",
+          "Học Phần 2: Thần Học Thánh Kinh Với Thần Học Hệ Thống",
+          "Học Phần 3: Sáng Thế Ký Với Các Sách Lịch Sử",
+          "Học Phần 4: Sự Khôn Ngoan Và Thần Học Về Khải Tượng",
+          "Học Phần 5: Các Sách Phúc Âm - Công Vụ",
+          "Học Phần 6: Các Thư Tín Của Phao-Lô",
+          "Học Phần 7: Các Thư Tín Tổng Quát",
+          "Học Phần 8: Vương Quốc"
+        ]
+      },
+      {
+        "id": 13,
+        "name": "13-Sứ Mạng Đức Chúa Trời Giao Cho Hội Thánh Địa Phương",
+        "item": [
+          "Học Phần 1: Tóm Tắt Những Gì Hội Thánh Địa Phương Làm Trong Các Sứ Mạng",
+          "Học Phần 2: Những Gì Kinh Thánh Dạy Về Các Sứ Mạng Cả Trên Toàn Cầu Và Địa Phương",
+          "Học Phần 3: Định Nghĩa Về Hội Thánh Sai Phái",
+          "Học Phần 4: Hồ Sơ Đánh Giá Sứ Mạng Và Trách Nhiệm Truyền Giáo",
+          "Học Phần 5: Triết Lý Nhiệm Vụ Ngắn Hạn Và Tuyển Dụng Đội Ngũ Ngắn Hạn",
+          "Học Phần 6: Triết Lý Ngắn Hạn",
+          "Học Phần 7: Chính Sách Và Thủ Tục Ngắn Hạn",
+          "Học Phần 8: Hoàn Thành Sổ Tay Chính Sách Ngắn Hạn Và Nhiệm Vụ"
+        ]
+      },
+      {
+        "id": 14,
+        "name": "14-Trách Nhiệm Đức Chúa Trời Giao Trên Thế Giới",
+        "item": [
+          "Học Phần 1: Thế Giới Quan",
+          "Học Phần 2: Truyền Giáo",
+          "Học Phần 3: Phật Giáo",
+          "Học Phần 4: Hồi Giáo",
+          "Học Phần 5: Công Giáo",
+          "Học Phần 6: Chủ Nghĩa Thế Tục / Chủ Nghĩa Duy Vật",
+          "Học Phần 7: Ấn Độ Giáo",
+          "Học Phần 8: Tổng Kết"
+        ]
+      },
+      {
+        "id": 15,
+        "name": "15-Vùng Đất Của Kinh Thánh",
+        "item": [
+          "Học Phần 1: Thành Cổ Giê-ru-sa-lem",
+          "Học Phần 2: Thành Đa-vít",
+          "Học Phần 3: Thành Cổ, Núi Si-ôn, Mộ Vườn",
+          "Học Phần 4: Bên-gia-min Và Giê-ri-cô",
+          "Học Phần 5: Núi Đền Thờ, Núi Ô-li-ve, Mô-áp, Hếp-rôn, Bết-lê-hem",
+          "Học Phần 6: Shephelah, Negev, Masada, Qumran",
+          "Học Phần 7: Bờ Biển, Mê-ghi-đô, Na-xa-rét, Hạ Ga-li-lê, Thung Lũng Gít-rê-ên",
+          "Học Phần 8: Ga-li-lê, Đồi Gô-gô-tha, Thung Lũng Giô-đanh, Sa-ma-ri"
+        ]
+      },
+      {
+        "id": 16,
+        "name": "16-Tiếng Hy Lạp Trung Cấp",
+        "item": [
+          "Học Phần 1: Giải Quyết Những Trường Hợp Đó",
+          "Học Phần 2: Những Bài Viết - Tính Từ Rõ Ràng Lớn Nhỏ",
+          "Học Phần 3: Moody Times Với Động Từ",
+          "Học Phần 4: Thời Gian Tense Với Động Từ (1)",
+          "Học Phần 5: Thời Gian Tense Với Động Từ (2)",
+          "Học Phần 6: Thời Gian Căng Thẳng Với Động Từ (3)",
+          "Học Phần 7: Đi Và Đến",
+          "Học Phần 8: Tồn Tại Hay Không Tồn Tại"
+        ]
+      },
+      {
+        "id": 17,
+        "name": "17-Tiếng Hê-bơ-rơ Trung Cấp",
+        "item": [
+          "Học Phần 1: Giới Thiệu - Danh Từ",
+          "Học Phần 2: Danh Từ, Tính Từ Và Phó Từ",
+          "Học Phần 3: Đại Từ - Giới Từ",
+          "Học Phần 4: Liên Từ - Động Từ",
+          "Học Phần 5: Động Từ",
+          "Học Phần 6: Mệnh Đề Định Lượng",
+          "Học Phần 7: Mệnh Đề Chính - Mệnh Đề Biến Đổi",
+          "Học Phần 8: Bài Kiểm Tra Cuối Khóa"
+        ]
+      },
+      {
+        "id": 18,
+        "name": "18-Giải Nghĩa Tiếng Hê-Bơ-Rơ Trung Cấp",
+        "item": [
+          "Học Phần 1: Giới Thiệu Khóa Học, Nguồn Lực, Mệnh Đề Chính, Mệnh Đề Biến Đổi",
+          "Học Phần 2: Mệnh Đề Biến Đổi - Cụm Từ",
+          "Học Phần 3: Cụm Tính Từ, Phó Từ, Thi 1, Cụm Động Từ, Phân Tích Cụm Từ",
+          "Học Phần 4: Phân Tích Câu, Chuỗi Biến Đổi, Trọng Âm",
+          "Học Phần 5: Trọng Âm, Phụ Lục, Thi 2",
+          "Học Phần 6: Từ Vựng - Bản Dịch Của Jonah &Amp; Ruth",
+          "Học Phần 7: Bản Dịch Và Bài Chú Giải Của Ruth",
+          "Học Phần 8: Phê Bình Bản Văn - Cuối Cùng"
+        ]
+      },
+      {
+        "id": 19,
+        "name": "19-Thần Học Hệ Thống",
+        "item": []
+      },
+      {
+        "id": 20,
+        "name": "20-Thần Học Biện Giáo",
+        "item": []
+      },
+      {
+        "id": 21,
+        "name": "21-Vấn Đề Đương Đại Trong Thần Học",
+        "item": []
+      },
+      {
+        "id": 22,
+        "name": "22-Những Nghiên Cứu Trong Thần Học",
+        "item": []
+      },
+      {
+        "id": 23,
+        "name": "23-Thần Học Thực Hành ",
+        "item": []
+      }
+    ]
   }
 }
-
