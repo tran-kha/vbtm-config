@@ -404,7 +404,7 @@
         },
         {
           "id": 14,
-          "name": "14-Trách Nhiệm Đức Chúa Trời Giao Trên Thế Giới"",
+          "name": "14-Trách Nhiệm Đức Chúa Trời Giao Trên Thế Giới",
           "item": [
               "Học Phần 1: Thế Giới Quan",
               "Học Phần 2: Truyền Giáo",
@@ -429,7 +429,8 @@
               "Học Phần 7: Bờ Biển, Mê-ghi-đô, Na-xa-rét, Hạ Ga-li-lê, Thung Lũng Gít-rê-ên",
               "Học Phần 8: Ga-li-lê, Đồi Gô-gô-tha, Thung Lũng Giô-đanh, Sa-ma-ri"
             ]
-        },\ {
+        },
+        {
           "id": 16,
           "name": "16-Tiếng Hy Lạp Trung Cấp",
           "item": [
@@ -442,7 +443,71 @@
                 "Học Phần 7: Đi Và Đến",
                 "Học Phần 8: Tồn Tại Hay Không Tồn Tại"
             ]
+        },
+        {
+          "id": 17,
+          "name": "17-Tiếng Hê-bơ-rơ Trung Cấp",
+          "item": [
+               "Học Phần 1: Giới Thiệu - Danh Từ",
+                "Học Phần 2: Danh Từ, Tính Từ Và Phó Từ",
+                "Học Phần 3: Đại Từ - Giới Từ",
+                "Học Phần 4: Liên Từ - Động Từ",
+                "Học Phần 5: Động Từ",
+                "Học Phần 6: Mệnh Đề Định Lượng",
+                "Học Phần 7: Mệnh Đề Chính - Mệnh Đề Biến Đổi",
+                "Học Phần 8: Bài Kiểm Tra Cuối Khóa"
+            ]
+        },
+        {
+          "id": 18,
+          "name": "18-Giải Nghĩa Tiếng Hê-Bơ-Rơ Trung Cấp",
+          "item": [
+                "Học Phần 1: Giới Thiệu Khóa Học, Nguồn Lực, Mệnh Đề Chính, Mệnh Đề Biến Đổi",
+                "Học Phần 2: Mệnh Đề Biến Đổi - Cụm Từ",
+                "Học Phần 3: Cụm Tính Từ, Phó Từ, Thi 1, Cụm Động Từ, Phân Tích Cụm Từ",
+                "Học Phần 4: Phân Tích Câu, Chuỗi Biến Đổi, Trọng Âm",
+                "Học Phần 5: Trọng Âm, Phụ Lục, Thi 2",
+                "Học Phần 6: Từ Vựng - Bản Dịch Của Jonah &Amp; Ruth",
+                "Học Phần 7: Bản Dịch Và Bài Chú Giải Của Ruth",
+                "Học Phần 8: Phê Bình Bản Văn - Cuối Cùng"
+            ]
+        },
+        {
+          "id": 19,
+          "name": "19-Thần Học Hệ Thống",
+          "item": [
+
+            ]
+        },
+        {
+          "id": 20,
+          "name": "20-Thần Học Biện Giáo",
+          "item": [
+
+            ]
+        },
+         {
+          "id": 21,
+          "name": "21-Vấn Đề Đương Đại Trong Thần Học",
+          "item": [
+
+            ]
+        },
+         {
+          "id": 22,
+          "name": "22-Những Nghiên Cứu Trong Thần Học",
+          "item": [
+
+            ]
+        },
+         {
+          "id": 23,
+          "name": "23-Thần Học Thực Hành ",
+          "item": [
+
+            ]
         }
       ]
   }
 }
+
