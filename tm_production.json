@@ -16,7 +16,7 @@
     "bafybeibqg2sekim725s2yssdsx63egkobwbk6xhciwvmmy2lk4khwduw2e"
   ],
   "video_playlist": "720p.m3u8",
-  "cloud_gateway": "https://vgmvb.global.ssl.fastly.net/encrypted-tmu/VGMV",
+  "cloud_gateway": "https://vgmvb.global.ssl.fastly.net",
   "ipfs_gateway_local": "http://localhost:8080",
   "ipfs_gateway_server": "https://media-sgp.hjm.bid",
   "json_gateway": "https://vgmvb.global.ssl.fastly.net/encrypted/API/items/single/",
