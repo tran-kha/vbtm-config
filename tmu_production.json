@@ -18,7 +18,7 @@
   "video_playlist": "playlist.m3u8",
   "cloud_gateway": "https://vgmvb.global.ssl.fastly.net",
   "ipfs_gateway_local": "http://localhost:8080",
-  "ipfs_gateway_server": "https://media-sgp.hjm.bid",
+  "ipfs_gateway_server": "https://media-vn.hjm.bid",
   "json_gateway": "https://vgmvb.global.ssl.fastly.net/encrypted-tmu/API/items/single/",
   "url_download_app_windows": "https://link.storjshare.io/jvowbjt7kmunzujznmnktsgn7djq/vbtm%2FVBTM-TMAI.zip?download=1",
   "url_download_app_macos": "https://link.storjshare.io/jxztiqybzldpebo2uidzg4mdaijq/vbtm%2FVBTM-TMAI-MAC.zip?download=1",
