@@ -27,5 +27,5 @@
   "server_auth": "https://vbtm.vercel.app/api/auth",
   "server_graphql": "https://vbtm.vercel.app/api/graphql",
   "status_player": "online",
-  "domain": "https://tm.vbtm.academy",
+
 }
