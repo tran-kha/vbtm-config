@@ -28,5 +28,6 @@
   "server_graphql": "https://tmai.vbtm.academy/api/graphql",
   "status_player": "online",
   "server_register": "https://vbtm.vercel.app/signup",
-  "server_note":"https://codimd-tmu.hjm.bid"
+  "server_note":"https://codimd-tmu.hjm.bid",
+  "n8n_create_note":"https://n8n.hjm.bid/webhook/create-user-tmu"
 }
