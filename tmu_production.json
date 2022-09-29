@@ -29,6 +29,5 @@
   "status_player": "online",
   "server_register": "https://vbtm.vercel.app/signup",
   "server_note":"https://codimd-tmu.hjm.bid",
-  "n8n_create_note":"https://n8n.hjm.bid/webhook/create-user-tmu",
-  "n8n_create_user":"https://n8n.hjm.bid/webhook-test/create-user-tmu"
+  "n8n_create_note":"https://n8n.hjm.bid/webhook/create-user-tmu"
 }
