@@ -20,7 +20,7 @@
   "ipfs_gateway_local": "http://localhost:8080",
   "ipfs_gateway_server": "https://media-vn.hjm.bid",
   "json_gateway": "https://vgmvb.global.ssl.fastly.net/encrypted-tmu/API/items/single/",
-  "url_download_app_windows": "https://link.storjshare.io/jxt7yzfpcjczw4fgftoohj3afs3a/vbtm%2FVBTM-TMAI%20(1).zip?download=1",
+  "url_download_app_windows": "https://link.storjshare.io/jv2ufxcswwmpeibpyqwnuptjxgpq/vbtm%2FVBTM-TMAI-V1.2.zip?download=1",
   "url_download_app_macos": "https://link.storjshare.io/jvixel7vmvcjg7pgppau6tqoew6a/vbtm%2FVBTM-TMAI-V1.0.zip?download=1",
   "server_encrypted": "tmu-server.hjm.bid",
   "local_encrypted": "192.168.2.36:3333",
