@@ -1,7 +1,9 @@
+
 {
   "nen_tang": {
     "thanh_kinh": [
       {
+        "id": 1,
         "name": "Vương Quốc, Giao Ước & Kinh Điển Cựu Ước",
         "item": [
           "Bài 1: Tại Sao Phải Nghiên Cứu Cựu Ước?",
@@ -11,6 +13,7 @@
         ]
       },
       {
+        "id": 2,
         "name": "Vương Quốc & Giao Ước Trong Tân Ước",
         "item": [
           "Bài 1: Tại Sao Phải Nghiên Cứu Thần Học Tân Ước",
@@ -21,6 +24,7 @@
     ],
     "than_hoc": [
       {
+        "id": 1,
         "name": "Tín điều các Sứ đồ",
         "item": [
           "Bài 1: Các Tín Điều",
