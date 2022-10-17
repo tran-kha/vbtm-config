@@ -1,0 +1,36 @@
+{
+  "nen_tang": {
+    "thanh_kinh": [
+      {
+        "name": "Vương Quốc, Giao Ước & Kinh Điển Cựu Ước",
+        "item": [
+          "Bài 1: Tại Sao Phải Nghiên Cứu Cựu Ước?",
+          "Bài 2: Vương Quốc Đức Chúa Trời Trong Cựu Ước",
+          "Bài 3: Các Giao Ước Thiêng Liêng",
+          "Bài 4: Kinh Điển Cựu Ước"
+        ]
+      },
+      {
+        "name": "Vương Quốc & Giao Ước Trong Tân Ước",
+        "item": [
+          "Bài 1: Tại Sao Phải Nghiên Cứu Thần Học Tân Ước",
+          "Bài 2: Vương Quốc Đức Chúa Trời Trong Tân Ước",
+          "Bài 3: Các Giao Ước Mới"
+        ]
+      }
+    ],
+    "than_hoc": [
+      {
+        "name": "Tín điều các Sứ đồ",
+        "item": [
+          "Bài 1: Các Tín Điều",
+          "Bài 2: Đức Chúa Cha",
+          "Bài 3: Chúa Cứu Thế Giê-Xu",
+          "Bài 4: Đức Thánh Linh",
+          "Bài 5: Hội Thánh",
+          "Bài 6: Sự Cứu Rỗi"
+        ]
+      }
+    ]
+  }
+}
