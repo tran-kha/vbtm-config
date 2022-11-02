@@ -26,6 +26,7 @@
   "local_encrypted": "192.168.2.36:3333",
   "server_auth": "https://tmai.vbtm.academy/api/auth",
   "server_graphql": "https://tmai.vbtm.academy/api/graphql",
+  "server_canvas": "https://canvas-tmu.hjm.bid",
   "status_player": "online",
   "server_register": "https://vbtm.vercel.app/signup",
   "server_note":"https://codimd-tmu.hjm.bid",
