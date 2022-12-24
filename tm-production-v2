@@ -1,0 +1,38 @@
+{
+  "api_video": "https://vgmvb.global.ssl.fastly.net/encrypted/API/items/single/",
+  "peers": [
+    "/ip4/147.75.70.221/udp/4001/quic/p2p/Qme8g49gm3q4Acp7xWBKg3nAa9fxZ1YmyDJdyGgoG6LsXh/p2p-circuit/p2p/12D3KooWR49QchZDCtfaYsfnznKNAhdcXJHg94PFqw4Efk4kioFi",
+    "/ip4/147.75.70.221/udp/4001/quic/p2p/Qme8g49gm3q4Acp7xWBKg3nAa9fxZ1YmyDJdyGgoG6LsXh/p2p-circuit/p2p/12D3KooWJVA45ydfCAqRTjJ4SHxdsbyGehvK5EgPwvEM5ifsLPeY"
+  ],
+  "hash": [
+    "bafybeie65uuexn4xu2v5a5ibyvyyw6elvyp2levkjixv264itxn5uvw7mq",
+    "bafybeiek4sndgwn33ummfyfbeuultbrncgt3wu5f5vle34k7amtnc37jma",
+    "bafybeih23tlqaeg7j7suuolh6onammepqn7b4xc3lnyh6gntam3hfwqnle",
+    "bafybeig7sbngt5rdkxhrgbvcf6fr3af34yuz5jauufgpjekc7ygwo5eaki",
+    "bafybeihvxhelfoqyl26mlarjl5cw66lmyubto33oefax5rw75pzydymp6y",
+    "bafybeih3f27qysd4fefl2h37ae6senrjqvnk6noqo4j5xvrngf7nsxux3i",
+    "bafybeibivx3ccbbhv6oeqmoivbxjtcqzpw6dalyaabz3ibm6h3vm2xe67m",
+    "bafybeiecnt4z7ebzrbybjdqece4wwvpklm4uegsnmgitjukf24kh3rfi5i",
+    "bafybeibqg2sekim725s2yssdsx63egkobwbk6xhciwvmmy2lk4khwduw2e"
+  ],
+  "video_playlist": "720p.m3u8",
+  "cloud_gateway": "https://vgmvb.global.ssl.fastly.net",
+  "ipfs_gateway_local": "http://localhost:8080",
+  "ipfs_gateway_server": "http://cdn-ipfs-vn.hjm.bid",
+  "json_gateway": "https://vgmvb.global.ssl.fastly.net/encrypted/API/items/single/",
+  "url_download_app": "https://link.storjshare.io/jxmnyh5n7wo2k22kn3iwqvp7kx2a/vbtm%2FVBTM-TM-v1.0.9.zip?download=1",
+  "url_app_vbtm_macos": "https://link.storjshare.io/juxade7tljfwqx2lkvvfia5xqvmq/vbtm%2FSetupVBTMBetaMac.zip?download=1",
+  "server_encrypted": "tm-server-tmp.hjm.bid",
+  "local_encrypted": "192.168.2.36:3333",
+  "server_auth": "https://tm.vbtm.academy/api/auth",
+  "server_graphql": "https://tm.vbtm.academy/api/graphql",
+  "status_player": "online",
+  "vbtm_tm_domain": "https://tm.vbtm.academy",
+  "gatewayList": [
+   "http://cdn-ipfs-vn.hjm.bid",
+    "http://cdn-ipfs-sgp.hjm.bid",
+    "https://ipfs.filebase.io",
+    "https://gateway.vgm.cloud"
+  ],
+  "cookie_library_server": "jwt=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiZW1haWwiOiJkZXZAdmdtLm1lIiwibmFtZSI6IkRldiIsImF2IjpudWxsLCJ0eiI6IkFtZXJpY2EvTmV3X1lvcmsiLCJsYyI6ImVuIiwiZGYiOiIiLCJhcCI6IiIsInBlcm1pc3Npb25zIjpbInJlYWQ6cGFnZXMiLCJyZWFkOmFzc2V0cyIsInJlYWQ6Y29tbWVudHMiLCJ3cml0ZTpjb21tZW50cyIsIndyaXRlOnBhZ2VzIl0sImdyb3VwcyI6WzNdLCJpYXQiOjE2NjQ5NDIwNTYsImV4cCI6MTY2NTAyODQ1NiwiYXVkIjoidXJuOndpa2kuanMiLCJpc3MiOiJ1cm46d2lraS5qcyJ9.wMbUiyYOSip6S8ztPRRPHCLEss0-2IioBE1HdVsn9ecWJPA0rkD6OCxg7dxuA8I4Ckeu7zkKIcurRMvFEI9u3W-YRQQYh4QbIf7Jr4NNP6seRNWikpLFhVkglhz4XVLD7X9YHsvHaMWyrR9OF7-95QPGAC7lpRxzgntJmBMt3o_dTlDQNawXHp8uD_-ypVGK6MExxyCBwSFST1P-nNyxwifkARv1NK5SkvZ67p0_U86cxqjvAy9cTA5kdu_x-hY8lbv8CApB4peU0cOItfESctuoEnukUBwEIjt_9xZok4pu8qC1NuWK9bmjMvbmwvMuX55TjplRjjkj-db5lEieNQ"
+}
