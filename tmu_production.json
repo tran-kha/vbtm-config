@@ -1,8 +1,8 @@
 {
   "api_video": "https://vgmvb.global.ssl.fastly.net/encrypted/API/items/single/",
   "peers": [
-    "/ip4/147.75.70.221/udp/4001/quic/p2p/Qme8g49gm3q4Acp7xWBKg3nAa9fxZ1YmyDJdyGgoG6LsXh/p2p-circuit/p2p/12D3KooWR49QchZDCtfaYsfnznKNAhdcXJHg94PFqw4Efk4kioFi",
-    "/ip4/147.75.70.221/udp/4001/quic/p2p/Qme8g49gm3q4Acp7xWBKg3nAa9fxZ1YmyDJdyGgoG6LsXh/p2p-circuit/p2p/12D3KooWJVA45ydfCAqRTjJ4SHxdsbyGehvK5EgPwvEM5ifsLPeY"
+    "/dns4/cdn-ipfs-vn.hjm.bid/udp/4001/quic/p2p/12D3KooWJVA45ydfCAqRTjJ4SHxdsbyGehvK5EgPwvEM5ifsLPeY",
+    "/dns4/cdn-ipfs-sgp.hjm.bid/udp/4001/quic/p2p/12D3KooWR49QchZDCtfaYsfnznKNAhdcXJHg94PFqw4Efk4kioFi"
   ],
   "hash": [
     "bafybeie65uuexn4xu2v5a5ibyvyyw6elvyp2levkjixv264itxn5uvw7mq",
