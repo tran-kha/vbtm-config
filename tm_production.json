@@ -19,7 +19,7 @@
   "cloud_gateway": "https://vgmvb.global.ssl.fastly.net",
   "ipfs_gateway_local": "http://localhost:8080",
   "ipfs_gateway_server": "http://cdn-ipfs-vn.hjm.bid",
-  "json_gateway": "https://vgmvb.global.ssl.fastly.net/encrypted/API/items/single/",
+  "json_gateway": "https://cdn-ipfs-vn.hjm.bid/ipfs/bafybeicxprcmdpvgu4pmhdmuqu6wsdcngetafuxaaxeef6n4ocn4wwmqge /items/single/",
   "url_download_app": "https://link.storjshare.io/jwo5x4k5skajvsgfol7x2mawt3mq/vbtm%2FApp-TM%2FVBTM-TM-V1.1.4.zip?download=1",
   "url_app_vbtm_macos": "https://link.storjshare.io/juxade7tljfwqx2lkvvfia5xqvmq/vbtm%2FSetupVBTMBetaMac.zip?download=1",
   "server_encrypted": "tm-server.hjm.bid",
