@@ -27,6 +27,7 @@
   "server_auth": "https://tmai.vbtm.academy/api/auth",
   "server_graphql": "https://tmai.vbtm.academy/api/graphql",
   "server_canvas": "https://canvas-tmu.hjm.bid",
+  "server_wiki": "https://n8n-vb.hjm.bid/webhook/create-wiki",
   "status_player": "online",
   "server_register": "https://vbtm.vercel.app/signup",
   "server_note":"https://codimd-tmu.hjm.bid",
