@@ -15,7 +15,7 @@
     "bafybeiecnt4z7ebzrbybjdqece4wwvpklm4uegsnmgitjukf24kh3rfi5i",
     "bafybeibqg2sekim725s2yssdsx63egkobwbk6xhciwvmmy2lk4khwduw2e"
   ],
-  "video_playlist": "720p.m3u8",
+  "video_playlist": "playlist.m3u8",
   "cloud_gateway": "https://vgmvb.global.ssl.fastly.net",
   "ipfs_gateway_local": "http://localhost:8080",
   "ipfs_gateway_server": "http://cdn-ipfs-vn.hjm.bid",
