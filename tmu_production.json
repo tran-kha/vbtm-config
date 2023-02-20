@@ -35,6 +35,7 @@
   "n8n_create_user":"https://n8n-vb.hjm.bid/webhook/create-user-tmu",
   "vbtm_tmai_domain": "https://tmai.vbtm.academy",
   "gatewayList": [
+    "https://cdn.hjm.bid",
     "http://cdn-ipfs-vn.hjm.bid",
     "http://cdn-ipfs-sgp.hjm.bid",
     "https://ipfs.filebase.io"
