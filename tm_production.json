@@ -33,8 +33,7 @@
     "https://cdn.hjm.bid",
     "https://cdn-ipfs-vn.hjm.bid",
     "https://cdn-ipfs-sgp.hjm.bid",
-    "https://ipfs.filebase.io",
-    "https://gateway.vgm.cloud"
+    "https://ipfs.filebase.io"
   ],
   "cookie_library_server": "jwt=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiZW1haWwiOiJkZXZAdmdtLm1lIiwibmFtZSI6IkRldiIsImF2IjpudWxsLCJ0eiI6IkFtZXJpY2EvTmV3X1lvcmsiLCJsYyI6ImVuIiwiZGYiOiIiLCJhcCI6IiIsInBlcm1pc3Npb25zIjpbInJlYWQ6cGFnZXMiLCJyZWFkOmFzc2V0cyIsInJlYWQ6Y29tbWVudHMiLCJ3cml0ZTpjb21tZW50cyIsIndyaXRlOnBhZ2VzIl0sImdyb3VwcyI6WzNdLCJpYXQiOjE2NjQ5NDIwNTYsImV4cCI6MTY2NTAyODQ1NiwiYXVkIjoidXJuOndpa2kuanMiLCJpc3MiOiJ1cm46d2lraS5qcyJ9.wMbUiyYOSip6S8ztPRRPHCLEss0-2IioBE1HdVsn9ecWJPA0rkD6OCxg7dxuA8I4Ckeu7zkKIcurRMvFEI9u3W-YRQQYh4QbIf7Jr4NNP6seRNWikpLFhVkglhz4XVLD7X9YHsvHaMWyrR9OF7-95QPGAC7lpRxzgntJmBMt3o_dTlDQNawXHp8uD_-ypVGK6MExxyCBwSFST1P-nNyxwifkARv1NK5SkvZ67p0_U86cxqjvAy9cTA5kdu_x-hY8lbv8CApB4peU0cOItfESctuoEnukUBwEIjt_9xZok4pu8qC1NuWK9bmjMvbmwvMuX55TjplRjjkj-db5lEieNQ"
 }
