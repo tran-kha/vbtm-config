@@ -19,7 +19,7 @@
   "cloud_gateway": "https://vgmvb.global.ssl.fastly.net",
   "ipfs_gateway_local": "http://localhost:8080",
   "ipfs_gateway_server": "https://cdn-ipfs-sgp.hjm.bid",
-  "json_gateway": "https://cdn-ipfs-vn.hjm.bid/ipfs/bafybeidifjal4tvfnlpkpy5446uqqev6lstepbkrh7kywtwxzdsdobujie/items/single/",
+  "json_gateway": "https://cdn-ipfs-vn.hjm.bid/ipfs/bafybeigqkdcg4r555obmix3lsq5seul7qvlc7bvzifpgithjr37d3wyknu/items/single/",
   "url_download_app_windows": "https://link.storjshare.io/jvfqpfxt4y3ddeqnaw46eowd23cq/vbtm%2FApp-TMAI%2FVBTM-TMAI-V1.1.3.zip?download=1",
   "url_download_app_macos": "https://link.storjshare.io/jvixel7vmvcjg7pgppau6tqoew6a/vbtm%2FVBTM-TMAI-V1.0.zip?download=1",
   "server_encrypted": "tmu-server.hjm.bid",
